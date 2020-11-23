@@ -1,14 +1,23 @@
 const express = require('express');
 const bodyParser = require('express');
 const cors = require('cors');
+const cookieParser = require('cookie-parser');
 
 require('./database');
-require('dotenv').config()
+require('dotenv').config();
+
+const authRouter = require('./routers/auth.js');
 
 const PORT = process.env.PORT || 8081;
 var app = express();
-app.use(cors());
+app.use(cors({
+    origin: 'http://localhost:8080',
+    credentials: true
+}));
 app.use(bodyParser.json());
+app.use(cookieParser());
+
+app.use('/auth', authRouter)
 
 app.listen(PORT, () => {
     console.log(`Server started on port ${PORT}`);
