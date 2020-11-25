@@ -33,7 +33,7 @@ const login = async (request, response) => {
             response.cookie('access_token', token, {
                 maxAge: constants.DAY
             });
-            response.status(200).send({ success: true, adminInfo: {firstName: admin.firstName, lastName: admin.lastName} })
+            response.status(200).send({ success: true, adminInfo: {id: admin._id, firstName: admin.firstName, lastName: admin.lastName} })
         } else {
             response.status(200).send({success: false, incorrectPassword: true})
         }
