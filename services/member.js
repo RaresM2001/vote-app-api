@@ -11,6 +11,11 @@ const getMembers = async () => {
     return members;
 }
 
+const getMemberById = async (id) => {
+    let member = await Member.findById(id);
+    return member;
+}
+
 const deleteMember = async (id) => {
     let deletedStatus = await Member.deleteOne({_id: id})
     return deletedStatus;
@@ -19,5 +24,6 @@ const deleteMember = async (id) => {
 module.exports = {
     addMember,
     deleteMember,
-    getMembers
+    getMembers,
+    getMemberById
 }
