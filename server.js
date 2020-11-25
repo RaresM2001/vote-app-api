@@ -7,6 +7,7 @@ require('./database');
 require('dotenv').config();
 
 const authRouter = require('./routers/auth.js');
+const memberRouter = require('./routers/member');
 
 const PORT = process.env.PORT || 8081;
 var app = express();
@@ -17,7 +18,8 @@ app.use(cors({
 app.use(bodyParser.json());
 app.use(cookieParser());
 
-app.use('/auth', authRouter)
+app.use('/auth', authRouter);
+app.use('/members', memberRouter);
 
 app.listen(PORT, () => {
     console.log(`Server started on port ${PORT}`);
