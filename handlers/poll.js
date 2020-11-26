@@ -1,11 +1,19 @@
+const { response } = require('express');
 const member = require('../services/member');
 const service = require('../services/poll');
 
 const addPoll = async (request, response) => {
     let data = request.body;
     let poll = await service.addPoll(data);
-    if(poll) response.status(200).send({success: true, poll})
-    else response.status(200).send({success: false})
+    if(poll) response.status(200).send({success: true, poll});
+    else response.status(200).send({success: false});
+}
+
+const getPoll = async (request, response) => {
+    let id = request.params.id;
+    let poll = await service.getPollById(id);
+    if(poll) response.status(200).send({success: true, poll});
+    else response.status(200).send({success: false});
 }
 
 const vote = async (request, response) => {
@@ -21,12 +29,14 @@ const vote = async (request, response) => {
         else response.status(200).send({success: false});
     } else if(type === 'multiple') {
         let result = await service.voteOption(vote, memberId, pollId);
-        if(result != false) response.status(200).send({success: true})
+        console.log(result);
+        if(result != false) response.status(200).send({success: true});
         else response.status(200).send({success: false});
     }
 }
 
 module.exports = {
     addPoll,
-    vote
+    vote,
+    getPoll
 }

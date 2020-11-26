@@ -13,6 +13,7 @@ const getMembers = async () => {
 
 const getMemberById = async (id) => {
     let member = await Member.findById(id);
+    console.log(member)
     return member;
 }
 
