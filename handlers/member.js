@@ -7,6 +7,19 @@ const addMember = async (request, response) => {
     else response.status(200).send({success: false})
 }
 
+const getMembers = async (request, response) => {
+    let members = await service.getMembers();
+    if(members) response.status(200).send({success: true, members})
+    else response.status(200).send({success: false})
+}
+
+const getMember = async (request, response) => {
+    let id = request.params.id;
+    let member = await service.getMemberById(id);
+    if(member) response.status(200).send({success: true, member});
+    else response.status(200).send({success: false});
+}
+
 const deleteMember = async (request, response) => {
     let id = request.params.id;
     let deletedStatus = await service.deleteMember(id);
@@ -14,14 +27,9 @@ const deleteMember = async (request, response) => {
     else response.status(200).send({success: false})
 }
 
-const getMembers = async (request, response) => {
-    let members = await service.getMembers();
-    if(members) response.status(200).send({success: true, members})
-    else response.status(200).send({success: false})
-}
-
 module.exports = {
     addMember,
     deleteMember,
-    getMembers
+    getMembers,
+    getMember
 }
