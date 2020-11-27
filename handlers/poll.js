@@ -1,4 +1,3 @@
-const { response } = require('express');
 const member = require('../services/member');
 const service = require('../services/poll');
 
@@ -13,6 +12,12 @@ const getPoll = async (request, response) => {
     let id = request.params.id;
     let poll = await service.getPollById(id);
     if(poll) response.status(200).send({success: true, poll});
+    else response.status(200).send({success: false});
+}
+
+const getPolls = async (request, response) => {
+    let polls = await service.getPolls();
+    if(polls) response.status(200).send({success: true, polls});
     else response.status(200).send({success: false});
 }
 
@@ -38,5 +43,6 @@ const vote = async (request, response) => {
 module.exports = {
     addPoll,
     vote,
-    getPoll
+    getPoll,
+    getPolls
 }
