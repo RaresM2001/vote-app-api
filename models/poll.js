@@ -9,6 +9,14 @@ const pollSchema = new mongoose.Schema({
         type: String,
         required: true
     },
+    date: {
+        type: String,
+        required: true
+    },
+    closed: {
+        type: Boolean,
+        required: true
+    },
     yesOrNoAnswers: {
         type: Array
     },

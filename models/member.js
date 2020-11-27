@@ -25,7 +25,6 @@ const memberSchema = new mongoose.Schema({
     adminId: {
         type: String,
         required: true,
-        unique: true
     },
     address: {
         type: String
