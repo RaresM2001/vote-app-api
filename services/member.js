@@ -11,6 +11,11 @@ const getMembers = async () => {
     return members;
 }
 
+const getMemberByEmail = async (email) => {
+    let member = await Member.findOne({email});
+    return member;
+}
+
 const getMemberById = async (id) => {
     let member = await Member.findById(id);
     console.log(member)
@@ -18,7 +23,7 @@ const getMemberById = async (id) => {
 }
 
 const deleteMember = async (id) => {
-    let deletedStatus = await Member.deleteOne({_id: id})
+    let deletedStatus = await Member.deleteOne({_id: id});
     return deletedStatus;
 }
 
@@ -26,5 +31,6 @@ module.exports = {
     addMember,
     deleteMember,
     getMembers,
-    getMemberById
+    getMemberById,
+    getMemberByEmail
 }
