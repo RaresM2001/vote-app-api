@@ -8,7 +8,6 @@ const mailgun = require('mailgun-js')({
 
 const sendMail = async (data) => {
     await mailgun.messages().send(data, (error, body) => {
-        console.log(body)
         if (!error && body) return true;
         else return false;
     })

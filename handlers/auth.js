@@ -13,7 +13,6 @@ const createAdmin = async (request, response) => {
         }
 
     } catch (error) {
-        console.log(error);
         response.status(500).send(error.message);
     }
 }
@@ -42,7 +41,6 @@ const login = async (request, response) => {
             response.status(200).send({ success: false, incorrectPassword: true })
         }
     } catch (error) {
-        console.log(error.message)
         response.status(200).send({ success: false })
     }
 }
@@ -52,7 +50,6 @@ const verifyToken = async (request, response) => {
         return response.status(401).send({ success: false })
     try {
         let decodedToken = await jwt.verifyToken(request.cookies.access_token);
-        console.log(decodedToken);
         response.status(200).send({ success: true, decodedToken })
     } catch (error) {
         response.status(401).send({ success: false })

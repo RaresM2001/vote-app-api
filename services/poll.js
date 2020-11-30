@@ -12,13 +12,13 @@ const getPollById = async (id) => {
     return poll;
 }
 
-const getPolls = async () => {
-    let polls = await Poll.find({});
+const getPolls = async (id) => {
+    let polls = await Poll.find({adminId: id});
     return polls;
 }
 
-const getPollCount = async () => {
-    let count = await Poll.countDocuments({});
+const getPollCount = async (id) => {
+    let count = await Poll.countDocuments({adminId: id});
     return count;
 }
 

@@ -15,7 +15,6 @@ const addMemberToList = async (request, response) => {
 
 const sendMail = async (request, response) => {
     let result = await service.sendMail(request.body);
-    console.log(result);
 }
 
 module.exports = {
