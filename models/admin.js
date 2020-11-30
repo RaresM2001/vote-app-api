@@ -2,14 +2,14 @@ const mongoose = require('mongoose');
 const bcrypt = require('bcrypt');
 
 const adminSchema = new mongoose.Schema({
-    username: {
-        type: String,
-        required: true,
-        unique: true
-    },
     email: {
         type: String,
         require: true,
+        unique: true
+    },
+    tradeUnion: {
+        type: String,
+        required: true,
         unique: true
     },
     firstName: {

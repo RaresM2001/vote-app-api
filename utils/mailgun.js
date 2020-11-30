@@ -14,9 +14,9 @@ const sendMail = async (data) => {
     })
 }
 
-const createMailingList = async () => {
+const createMailingList = async (name) => {
     let result = await mailgun.post('/lists', { 
-        address: `members@${domain}`, 
+        address: `members_${name}@${domain}`, 
         description: 'Members for vote application.' 
     }, function (error, body) {
         if(error) return false;
@@ -24,8 +24,8 @@ const createMailingList = async () => {
     return result;
 }
 
-const addMemberToMailingList = async (listName, memberData) => {
-    let list = mailgun.lists(`${listName}@${domain}`);
+const addMemberToMailingList = async (name, memberData) => {
+    let list = mailgun.lists(`members_${name}@${domain}`);
 
     let member = {
         name: memberData.firstName + " " + memberData.lastName,

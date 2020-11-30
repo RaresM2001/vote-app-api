@@ -1,13 +1,17 @@
-const authService = require('../services/auth.js');
+const service = require('../services/auth.js');
 const jwt = require('../utils/jwt')
 const constants = require('../utils/constants')
+const mailgun = require('../utils/mailgun');
 
 const createAdmin = async (request, response) => {
     let data = request.body;
     try {
-        let admin = await authService.createAdmin(data);
-        console.log(admin);
-        response.status(200).send(admin)
+        let admin = await service.createAdmin(data);
+        if(admin) {
+            mailgun.createMailingList(admin.tradeUnion);
+            response.status(200).send(admin)
+        }
+       
     } catch (error) {
         console.log(error);
         response.status(500).send(error.message);
@@ -17,7 +21,7 @@ const createAdmin = async (request, response) => {
 const login = async (request, response) => {
     let credentials = request.body;
 
-    let admin = await authService.findAdminByUsername(credentials.username);
+    let admin = await service.findAdminByUsername(credentials.username);
     if (!admin) return response.send({ success: false, incorrectUsername: true });
 
     try {
