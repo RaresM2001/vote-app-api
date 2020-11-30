@@ -9,6 +9,7 @@ require('dotenv').config();
 const authRouter = require('./routers/auth.js');
 const memberRouter = require('./routers/member');
 const pollRouter = require('./routers/poll');
+const mailgunRouter = require('./routers/mailgun');
 
 const PORT = process.env.PORT || 8081;
 var app = express();
@@ -22,6 +23,7 @@ app.use(cookieParser());
 app.use('/auth', authRouter);
 app.use('/members', memberRouter);
 app.use('/polls', pollRouter)
+app.use('/mailgun', mailgunRouter);
 
 app.listen(PORT, () => {
     console.log(`Server started on port ${PORT}`);

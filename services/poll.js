@@ -17,6 +17,11 @@ const getPolls = async () => {
     return polls;
 }
 
+const getPollCount = async () => {
+    let count = await Poll.countDocuments({});
+    return count;
+}
+
 const voteYesOrNo = async (vote, memberId, pollId) => {
     let poll = await getPollById(pollId);
     let member = await memberService.getMemberById(memberId);
@@ -44,5 +49,6 @@ module.exports = {
     getPolls,
     voteOption,
     voteYesOrNo,
-    getPollById
+    getPollById,
+    getPollCount
 }
