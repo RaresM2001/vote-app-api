@@ -3,8 +3,9 @@ const service = require('../services/member');
 
 const addMember = async (request, response) => {
     let memberInfo = request.body;
+    let adminId = request.body.adminId;
 
-    let alreadyExists = await service.getMemberByEmail(memberInfo.email);
+    let alreadyExists = await service.getMemberByEmail(memberInfo.email, adminId);
     if(alreadyExists) return response.status(200).send({success: false, duplicate: true});
 
     let member = await service.addMember(memberInfo);
@@ -27,13 +28,15 @@ const getMemberById = async (request, response) => {
 }
 
 const getMembers = async (request, response) => {
-    let members = await service.getMembers();
+    let id = request.params.id;
+    let members = await service.getMembers(id);
     if (members) response.status(200).send({ success: true, members })
     else response.status(200).send({ success: false })
 }
 
 const getMemberCount = async (request, response) => {
-    let count = await service.getMemberCount();
+    let id = request.params.id;
+    let count = await service.getMemberCount(id);
     if(count != undefined) response.status(200).send({success: true, count});
     else response.status(200).send({success: false});
 }

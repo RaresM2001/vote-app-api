@@ -6,18 +6,18 @@ const addMember = async (data) => {
     return member;
 }
 
-const getMembers = async () => {
-    let members = await Member.find({});
+const getMembers = async (id) => {
+    let members = await Member.find({adminId: id});
     return members;
 }
 
-const getMemberCount = async () => {
-    let count = await Member.countDocuments({});
+const getMemberCount = async (id) => {
+    let count = await Member.countDocuments({adminId: id});
     return count;
 }
-
-const getMemberByEmail = async (email) => {
-    let member = await Member.findOne({email});
+    
+const getMemberByEmail = async (email, id) => {
+    let member = await Member.findOne({email: email, adminId: id});
     return member;
 }
 

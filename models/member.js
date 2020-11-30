@@ -12,12 +12,11 @@ const memberSchema = new mongoose.Schema({
     email: {
         type: String,
         required: true,
-        unique: true
     },
     CNP: {
         type: String,
         required: true,
-        unique: true
+       
     },
     joinedIn: {
         type: String

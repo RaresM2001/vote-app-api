@@ -7,8 +7,8 @@ const createMailingList = async (request, response) => {
 }
 
 const addMemberToList = async (request, response) => {
-    let list = request.params.list;
-    let result = await service.addMemberToMailingList(list, request.body);
+    
+    let result = await service.addMemberToMailingList(request.body.tradeUnion, request.body.member);
     if(result) response.status(200).send({success: true});
     else response.status(200).send({success: false}); 
 }
