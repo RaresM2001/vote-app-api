@@ -4,7 +4,7 @@ const service = require('../services/member');
 const addMember = async (request, response) => {
     let memberInfo = request.body;
     let adminId = request.body.adminId;
-
+    
     let alreadyExists = await service.getMemberByEmail(memberInfo.email, adminId);
     if(alreadyExists) return response.status(200).send({success: false, duplicate: true});
 
