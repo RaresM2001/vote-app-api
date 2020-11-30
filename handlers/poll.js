@@ -21,6 +21,12 @@ const getPolls = async (request, response) => {
     else response.status(200).send({success: false});
 }
 
+const getPollCount = async (request, response) => {
+    let count = await service.getPollCount();
+    if(count != undefined) response.status(200).send({success: true, count});
+    else response.status(200).send({success: false});
+}
+
 const vote = async (request, response) => {
     let type = request.params.type;
     let pollId = request.params.pollId;
@@ -44,5 +50,6 @@ module.exports = {
     addPoll,
     vote,
     getPoll,
-    getPolls
+    getPolls,
+    getPollCount
 }

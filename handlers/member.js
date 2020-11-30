@@ -1,3 +1,4 @@
+const { response } = require('express');
 const service = require('../services/member');
 
 const addMember = async (request, response) => {
@@ -31,6 +32,12 @@ const getMembers = async (request, response) => {
     else response.status(200).send({ success: false })
 }
 
+const getMemberCount = async (request, response) => {
+    let count = await service.getMemberCount();
+    if(count != undefined) response.status(200).send({success: true, count});
+    else response.status(200).send({success: false});
+}
+
 const deleteMember = async (request, response) => {
     let id = request.params.id;
     let deletedStatus = await service.deleteMember(id);
@@ -43,5 +50,6 @@ module.exports = {
     deleteMember,
     getMembers,
     getMemberById,
-    getMemberByEmail
+    getMemberByEmail,
+    getMemberCount
 }

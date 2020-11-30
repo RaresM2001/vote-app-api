@@ -11,6 +11,11 @@ const getMembers = async () => {
     return members;
 }
 
+const getMemberCount = async () => {
+    let count = await Member.countDocuments({});
+    return count;
+}
+
 const getMemberByEmail = async (email) => {
     let member = await Member.findOne({email});
     return member;
@@ -32,5 +37,6 @@ module.exports = {
     deleteMember,
     getMembers,
     getMemberById,
-    getMemberByEmail
+    getMemberByEmail,
+    getMemberCount
 }
