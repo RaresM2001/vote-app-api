@@ -6,12 +6,12 @@ const createAdmin = async (data) => {
     return admin.save();
 }
 
-const findAdminByUsername = async (username) => {
-    let admin = await Admin.findOne({username});
+const findAdminByEmail = async (email) => {
+    let admin = await Admin.findOne({email});
     return admin;
 }
 
 module.exports = {
     createAdmin,
-    findAdminByUsername
+    findAdminByEmail
 }
