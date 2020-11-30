@@ -7,14 +7,14 @@ const mailgun = require('mailgun-js')({
 });
 
 const sendMail = async (data) => {
-    let result = await mailgun.messages().send(data, (error, body) => {
+    await mailgun.messages().send(data, (error, body) => {
+        console.log(body)
         if (!error && body) return true;
         else return false;
     })
-    console.log('Mail result is ' + result);
 }
 
-const createMailingList = async (adminId) => {
+const createMailingList = async () => {
     let result = await mailgun.post('/lists', { 
         address: `members@${domain}`, 
         description: 'Members for vote application.' 
@@ -24,19 +24,21 @@ const createMailingList = async (adminId) => {
     return result;
 }
 
-const addMemberToMailingList = async (listName) => {
+const addMemberToMailingList = async (listName, memberData) => {
     let list = mailgun.lists(`${listName}@${domain}`);
+
     let member = {
-        name: "Modure Rares",
+        name: memberData.firstName + " " + memberData.lastName,
         subscribed: true,
-        address: "m.rares956@yahoo.com"
+        address: memberData.email
     }
 
-    let result = await list.members().create(member, function(error, data) {
+    list.members().create(member, function(error, data) {
         if(error) return false;
-    })
-    return result;
+    });
+    return true;
 }
+
 
 module.exports = {
     sendMail,
