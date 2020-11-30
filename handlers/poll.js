@@ -16,13 +16,15 @@ const getPoll = async (request, response) => {
 }
 
 const getPolls = async (request, response) => {
-    let polls = await service.getPolls();
+    let id = request.params.id;
+    let polls = await service.getPolls(id);
     if(polls) response.status(200).send({success: true, polls});
     else response.status(200).send({success: false});
 }
 
 const getPollCount = async (request, response) => {
-    let count = await service.getPollCount();
+    let id = request.params.id;
+    let count = await service.getPollCount(id);
     if(count != undefined) response.status(200).send({success: true, count});
     else response.status(200).send({success: false});
 }
@@ -40,7 +42,6 @@ const vote = async (request, response) => {
         else response.status(200).send({success: false});
     } else if(type === 'multiple') {
         let result = await service.voteOption(vote, memberId, pollId);
-        console.log(result);
         if(result != false) response.status(200).send({success: true});
         else response.status(200).send({success: false});
     }

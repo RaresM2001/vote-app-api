@@ -26,6 +26,10 @@ const pollSchema = new mongoose.Schema({
     },
     optionAnswers: {
         type: Array
+    },
+    adminId: {
+        type: String,
+        required: true
     }
 })
 
