@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+const bcrypt = require('bcrypt');
 
 const adminSchema = new mongoose.Schema({
     username: {
@@ -25,6 +26,26 @@ const adminSchema = new mongoose.Schema({
         minlength: 8
     }
 })
+
+adminSchema.methods.hashPassword = function() {
+    const saltRounds = 10;
+    return new Promise((resolve, reject) => {
+        bcrypt.hash(this.password, saltRounds, (error, hash) => {
+            if(error) reject(error.message);
+            this.password = hash;
+            resolve();
+        })
+    }) 
+}
+
+adminSchema.methods.matchPassword = function(password) {
+    return new Promise((resolve, reject) => {
+        bcrypt.compare(password, this.password, function(error, result) {
+            if(error) reject(error.message)
+            resolve(result);
+        })
+    })
+}
 
 const Admin = mongoose.model('Admin', adminSchema);
 module.exports = Admin;
