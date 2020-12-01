@@ -16,8 +16,7 @@ const sendMail = async (pollId, to) => {
         html: constants.htmlMailTemplate(pollId)
     }
     await mailgun.messages().send(data, (error, body) => {
-        console.log(body);
-        if (!error && body) return true;
+        if (!error) return true;
         else return false;
     })
 }
