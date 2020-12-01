@@ -1,13 +1,22 @@
 const apiKey = process.env.MAILGUN_KEY;
 const domain = process.env.MAILGUN_DOMAIN;
+const constants = require('../utils/constants');
+
 
 const mailgun = require('mailgun-js')({
     apiKey,
     domain
 });
 
-const sendMail = async (data) => {
+const sendMail = async (pollId, to) => {
+    let data = {
+        from: "Vote App <modure_rares@mrv-it.com>",
+        to: to,
+        subject: "Participare Vot",
+        html: constants.htmlMailTemplate(pollId)
+    }
     await mailgun.messages().send(data, (error, body) => {
+        console.log(body);
         if (!error && body) return true;
         else return false;
     })
@@ -29,7 +38,8 @@ const addMemberToMailingList = async (name, memberData) => {
     let member = {
         name: memberData.firstName + " " + memberData.lastName,
         subscribed: true,
-        address: memberData.email
+        address: memberData.email,
+        vars: {id: memberData._id}
     }
 
     list.members().create(member, function(error, data) {
