@@ -25,6 +25,10 @@ app.use('/members', memberRouter);
 app.use('/polls', pollRouter)
 app.use('/mailgun', mailgunRouter);
 
+app.get('/', (request, response) => {
+    response.send('rares are mere')
+})
+
 app.listen(PORT, () => {
     console.log(`Server started on port ${PORT}`);
 })
