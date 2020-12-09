@@ -1,8 +1,10 @@
 const express = require('express');
 const router = express.Router();
 const handler = require('../handlers/member');
+const util = require('../utils/jsonToDb');
 
 router.post('/', handler.addMember);
+router.post('/add_members', handler.addMembers)
 router.get('/:id', handler.getMembers);
 router.get('/count/:id', handler.getMemberCount);
 router.get('/member/:id', handler.getMemberById);
