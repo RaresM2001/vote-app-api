@@ -3,6 +3,7 @@ const Admin = require('../models/admin');
 const createAdmin = async (data) => {
     let admin = new Admin({...data});
     await admin.hashPassword(); 
+    console.log(admin);
     return admin.save();
 }
 
