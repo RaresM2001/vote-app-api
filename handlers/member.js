@@ -1,5 +1,8 @@
-const { response } = require('express');
 const service = require('../services/member');
+
+const addMembers = async (request, response) => {
+    service.addMembers();
+}
 
 const addMember = async (request, response) => {
     let memberInfo = request.body;
@@ -50,6 +53,7 @@ const deleteMember = async (request, response) => {
 
 module.exports = {
     addMember,
+    addMembers,
     deleteMember,
     getMembers,
     getMemberById,
