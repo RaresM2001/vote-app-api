@@ -1,22 +1,29 @@
 const apiKey = process.env.MAILGUN_KEY;
 const domain = process.env.MAILGUN_DOMAIN;
+const constants = require('../utils/constants');
+
 
 const mailgun = require('mailgun-js')({
     apiKey,
     domain
 });
 
-const sendMail = async (data) => {
-    let result = await mailgun.messages().send(data, (error, body) => {
-        if (!error && body) return true;
+const sendMail = async (pollId, to) => {
+    let data = {
+        from: "Vote App <modure_rares@mrv-it.com>",
+        to: to,
+        subject: "Participare Vot",
+        html: constants.htmlMailTemplate(pollId)
+    }
+    await mailgun.messages().send(data, (error, body) => {
+        if (!error) return true;
         else return false;
     })
-    console.log('Mail result is ' + result);
 }
 
-const createMailingList = async (adminId) => {
+const createMailingList = async (name) => {
     let result = await mailgun.post('/lists', { 
-        address: `members@${domain}`, 
+        address: `members_${name}@${domain}`, 
         description: 'Members for vote application.' 
     }, function (error, body) {
         if(error) return false;
@@ -24,19 +31,22 @@ const createMailingList = async (adminId) => {
     return result;
 }
 
-const addMemberToMailingList = async (listName) => {
-    let list = mailgun.lists(`${listName}@${domain}`);
+const addMemberToMailingList = async (name, memberData) => {
+    let list = mailgun.lists(`members_${name}@${domain}`);
+
     let member = {
-        name: "Modure Rares",
+        name: memberData.firstName + " " + memberData.lastName,
         subscribed: true,
-        address: "m.rares956@yahoo.com"
+        address: memberData.email,
+        vars: {id: memberData._id}
     }
 
-    let result = await list.members().create(member, function(error, data) {
+    list.members().create(member, function(error, data) {
         if(error) return false;
-    })
-    return result;
+    });
+    return true;
 }
+
 
 module.exports = {
     sendMail,

@@ -1,0 +1,4187 @@
+{
+  "SeNS": [
+      {
+          "Nr. crt. ": "1",
+          "Nume si Prenume": "Agud-Popa Mihaiela",
+          "CNP": "2770307052153",
+          "address": "Oradea, str. I. Cantacuzino, nr. 8E, ap. 2, jud. Bihor",
+          "Functie casa/gradatia": "inspector superior I/4",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "26.06.2017",
+          "address mail": "mihaela.agud.bh@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "2",
+          "Nume si Prenume": "Alexandrescu Camelia",
+          "CNP": "2590306060764",
+          "address": "Bistrita,str. V.Pirvan nr 16, jud. Bistrita-Nasaud",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "19.06.2017",
+          "address mail": "camelia.alexandrescu.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "3",
+          "Nume si Prenume": "Almasan Daniel Mircea",
+          "CNP": "1731005120662",
+          "address": "Floresti, str. Urusagului, nr. 17, bloc 8, ap. 1",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017"
+      },
+      {
+          "Nr. crt. ": "4",
+          "Nume si Prenume": "Andres Luminita Maria",
+          "CNP": "2650212120019",
+          "address": "Campia Turzii, str. Eroilor, nr. 11, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "25.09.2017",
+          "address mail": "luminita.andres.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "5",
+          "Nume si Prenume": "Anghel Ramona",
+          "CNP": "2800224125821",
+          "address": "Cluj-Napoca, str. Timisului, nr. 79, ap. 7",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "12.04.2018",
+          "address mail": "ramona.anghel.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "6",
+          "Nume si Prenume": "Antal Dorina",
+          "CNP": "2611216120640",
+          "address": "Cluj Napoca, Bd. 21 Decembrie 1989 nr 13,ap 95",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "dorina.antal.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "7",
+          "Nume si Prenume": "Apavaloaiei Ioana Elena",
+          "CNP": "2750927203146",
+          "address": "Cluj Napoca, Colonia Borhanci FN",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "ioana.apavaloaiei.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "8",
+          "Nume si Prenume": "Ardelean Daniela",
+          "CNP": "2670317301975",
+          "address": "Satu Mare, str. Paris nr 71, jud. Satu Mare",
+          "Functie casa/gradatia": "inspector principal I/5",
+          "DGRFP": "AJFP Satu Mare",
+          "data adeziune": "10.07.2017",
+          "address mail": "daniela.ardelean.sm@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "9",
+          "Nume si Prenume": "Astefani Florin Marius",
+          "CNP": "1780516241344",
+          "address": "Satu Mare, str. Jocului nr 1, ap 3, jud. Satu Mare",
+          "Functie casa/gradatia": "inspector superior I/4",
+          "DGRFP": "AJFP Satu Mare",
+          "data adeziune": "11.07.2017",
+          "address mail": "marius.astefani.sm@ana.ro"
+      },
+      {
+          "Nr. crt. ": "10",
+          "Nume si Prenume": "Baba Cristina",
+          "CNP": "2751029120726",
+          "address": "Cluj Napoca, str. Capitan Grigore Ignat nr 24",
+          "Functie casa/gradatia": "inspector superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "cristina.baba.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "11",
+          "Nume si Prenume": "Babici Letitia",
+          "CNP": "2690815301990",
+          "address": "Satu Mare, str. Ceahlaului nr. 2, ap 5, jud. Satu Mare",
+          "Functie casa/gradatia": "inspector superior I/5",
+          "DGRFP": "AJFP Satu Mare",
+          "data adeziune": "11.07.2017",
+          "address mail": "ltitia.babici.cdgrfpcj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "12",
+          "Nume si Prenume": "Baicu Ramona Mirela",
+          "CNP": "2750207052858",
+          "address": "Oradea, str. Nufarului, nr. 27, ap. 16, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "26.06.2017",
+          "address mail": "ramona.baicu.bh@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "13",
+          "Nume si Prenume": "Bako Diana-Simona",
+          "CNP": "2741129301998",
+          "address": "Satu Mare, P-ta Soareluinr. 16 ap. 4, jud. Satu Mare",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.02.2018",
+          "address mail": "diana.bako.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "14",
+          "Nume si Prenume": "Balaj Cristina Ionela",
+          "CNP": "2701129193784",
+          "address": "Cluj-Napoca, str. Constantin Brancusi, nr. 172, ap. 72",
+          "Functie casa/gradatia": "inspector superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "16.02.2018",
+          "address mail": "cristina.balaj.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "15",
+          "Nume si Prenume": "Balas Olga Felicia",
+          "CNP": "2720917126205",
+          "address": "Floresti, str. Avram Iancu, nr. 51, jud. Cluj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "28.03.2019",
+          "address mail": "olga.balas.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "16",
+          "Nume si Prenume": "Balint Lenuta",
+          "CNP": "2660401120649",
+          "address": "Cluj Napoca, str. Aurel Vlaicu nr 58, ap 18",
+          "Functie casa/gradatia": "inspector superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "lenuta.balint.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "17",
+          "Nume si Prenume": "Ban Eugenia Simona",
+          "CNP": "2690319124038",
+          "address": "Gherla, str. Mintiului nr. 6, ap. 9, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "19.02.2019",
+          "address mail": "simona.ban.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "18",
+          "Nume si Prenume": "Barbos Gabriela",
+          "CNP": "2730923120688",
+          "address": "Cluj Napoca, str. Nicolae Titulescu, nr. 28, ap 33",
+          "Functie casa/gradatia": "inspector debutant",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "gabriela.barbos.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "19",
+          "Nume si Prenume": "Bartolomucci Catalina Gabriela",
+          "CNP": "2730905126210",
+          "address": "Turda, str. Castanilor nr. 5, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "22.06.2017",
+          "address mail": "Gabriela Bartolomucci/dgfpcfscj/cj/anaf.ro"
+      },
+      {
+          "Nr. crt. ": "20",
+          "Nume si Prenume": "Becheanu Radu Gabriel",
+          "CNP": "1810513420057",
+          "address": "Bucuresti, str. Stoian Militaru, nr. 103, bl. 1 ap. 4",
+          "DGRFP": "DGRFP Bucuresti",
+          "data adeziune": "09.07.2019",
+          "address mail": "radu.becheanu.S4@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "21",
+          "Nume si Prenume": "Bejan Adina Rodica",
+          "CNP": "2631003054675",
+          "address": "Oradea, str. Mestesugarilor, nr. 1, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "adina.bejan.dgrfpcj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "22",
+          "Nume si Prenume": "Beltechi Ramona Florina",
+          "CNP": "2780727057068",
+          "address": "Salonta, str. Republicii, nr. 102, ap. 2, jud. Bihor",
+          "Functie casa/gradatia": "inspector superior I/4",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "22.06.2017",
+          "address mail": "Ramona Beltechi/DGFPCFSBH/BH/MFINANTE"
+      },
+      {
+          "Nr. crt. ": "23",
+          "Nume si Prenume": "Belu Nicolae",
+          "CNP": "1660411126192",
+          "address": "Cluj Napoca, str. Padurii nr 12, ap 21",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "16.03.2018",
+          "address mail": "nicolae.belu.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "24",
+          "Nume si Prenume": "Bene Veronica",
+          "CNP": "2590611054652",
+          "address": "Oradea, str. Narciselor, nr. 42, jud. Bihor",
+          "Functie casa/gradatia": "sef serviciu grad II",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "26.06.2017",
+          "address mail": "veronica.bene.bh@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "25",
+          "Nume si Prenume": "Bichis Cornelia Steluta",
+          "CNP": "2610212126201",
+          "address": "Turda, str. Potaisa nr 24, jud Cluj",
+          "Functie casa/gradatia": "sef serviciu grad II/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "25.09.2017",
+          "address mail": "cornelia.bichis.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "26",
+          "Nume si Prenume": "Bistrean Mirela",
+          "CNP": "2631125054659",
+          "address": "Oradea, str. B. St. Delavrancea, nr. 24A, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "26.06.2017",
+          "address mail": "mirela.bistrean.bh@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "27",
+          "Nume si Prenume": "Bizgu Andreea Antoaneta",
+          "CNP": "2730925450013",
+          "address": "Bucuresti, Soseaua Viilor, nr. 78-88, ap. 44",
+          "Functie casa/gradatia": "consilier superior",
+          "DGRFP": "ANPAPC/ANAF",
+          "data adeziune": "26,06,2017",
+          "address mail": "andea.bizgu@yahoo.com"
+      },
+      {
+          "Nr. crt. ": "28",
+          "Nume si Prenume": "Blejan Daniela Cornelia",
+          "CNP": "2711230441529",
+          "address": "Gherla, str. Clujului nr. 4A, ap 4, jud. Cluj",
+          "Functie casa/gradatia": "sef birou grad I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "23.06.2017",
+          "address mail": "daniela.blejan.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "29",
+          "Nume si Prenume": "Bobe Ionela",
+          "CNP": "2690708521600",
+          "address": "Loc. Ogrezeni, str. Principala, nr. 270, jud. Giurgiu",
+          "DGRFP": "DGRFP Ploiesti",
+          "data adeziune": "03.10.2017",
+          "address mail": "ionela.bobe.gr@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "30",
+          "Nume si Prenume": "Bocean Lucica",
+          "CNP": "2640504120652",
+          "address": "Cluj Napoca, str. Scortarilor nr 11, ap 58",
+          "Functie casa/gradatia": "inspector superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "lucica.bocean.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "31",
+          "Nume si Prenume": "Bocereg Ioana Raluca",
+          "CNP": "2840623313523",
+          "address": "Cluj-Napoca, str. Colinei nr. 26, ap. 16",
+          "Functie casa/gradatia": "inspector principal I/2",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "19.05.2017",
+          "address mail": "raluca.bocereg.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "32",
+          "Nume si Prenume": "Bodan Maria",
+          "CNP": "2660324120660",
+          "address": "Cluj-Napoca, str. Al. Papiu I., nr. 39",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "02.02.2018",
+          "address mail": "maria.bodan.cj@naf.ro"
+      },
+      {
+          "Nr. crt. ": "33",
+          "Nume si Prenume": "Bogdan Anamaria",
+          "CNP": "2771120301963",
+          "address": "Satu Mare, str. Grigore Ureche nr. 1",
+          "Functie casa/gradatia": "inspector superior I/3",
+          "DGRFP": "AJFP Satu Mare",
+          "data adeziune": "10.07.2017",
+          "address mail": "anamaria.bogdan.sm@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "34",
+          "Nume si Prenume": "Boldor Angela Adriana",
+          "CNP": "2630919120666",
+          "address": "Cluj Napoca, Calea Dorobantilor nr 19 ap 2",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "16.03.2018",
+          "address mail": "angela.boldor.cj@naf.ro"
+      },
+      {
+          "Nr. crt. ": "35",
+          "Nume si Prenume": "Bonat Ioan",
+          "CNP": "1600318054651",
+          "address": "Oradea, str. G. Galilei, nr. 12, ap. 19, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "26.06.2017",
+          "address mail": "ioan.bonat.bh@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "36",
+          "Nume si Prenume": "Branzas Gelu",
+          "CNP": "1731229054674",
+          "address": "Oradea, str. Stefan Cel Mare, nr. 67, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "09.11.2017",
+          "address mail": "gelu.branzas.bh@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "37",
+          "Nume si Prenume": "Bucea Marinela",
+          "CNP": "2710709120647",
+          "address": "Cluj-Napoca, str. Tudor Vladimirescu, nr. 11",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "06.02.2018",
+          "address mail": "marinela.bucea.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "38",
+          "Nume si Prenume": "Bugnar Hanelore Loredana",
+          "CNP": "2780528301983",
+          "address": "Cluj Napoca, Calea Floresti nr. 75, ap 3",
+          "Functie casa/gradatia": "inspector principal I/3",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "hanelore.bugnar.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "39",
+          "Nume si Prenume": "Bumbu Ligia Maria",
+          "CNP": "2750209120668",
+          "address": "Cluj-Napoca, str. Izlazului, nr. 18, ap. 186",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "20.06.2017",
+          "address mail": "ligia.bumbu.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "40",
+          "Nume si Prenume": "Busuioc Gratiela",
+          "CNP": "2661220120691",
+          "address": "Cluj-Napoca, Bd. 21 Decembrie 1989, nr. 135, ap. 81",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "12.04.2018",
+          "address mail": "gratiela.busuioc.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "41",
+          "Nume si Prenume": "Cadis Sorina Mihaela",
+          "CNP": "2680209120746",
+          "address": "Cluj Napoca, str. Alexandru Macedonski, nr. 6F",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "sorina.cadis.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "42",
+          "Nume si Prenume": "Calugar Gabriel Marius",
+          "CNP": "1771212120707",
+          "address": "Floresti, str. Sub Cetate nr 131 ap 2, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "12.05.2017",
+          "address mail": "marius.calugar.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "43",
+          "Nume si Prenume": "Campian Codruta Doina",
+          "CNP": "2800701124990",
+          "address": "Campia Turzii, str. Teilor, nr. 28, jud. Cluj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "24.12.2018",
+          "address mail": "codruta.campian.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "44",
+          "Nume si Prenume": "Catuna Georgel-Alexandru",
+          "CNP": "1880407336527",
+          "address": "Manastirea Humor, str. Stefan cel Mare, nr. 283",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "08.11.2017",
+          "address mail": "georgel.catuna.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "45",
+          "Nume si Prenume": "Chendean Gabriela",
+          "CNP": "2650505060770",
+          "address": "Dej, str. George Cosbuc, nr. 19, jud. Cluj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "07.02.2018"
+      },
+      {
+          "Nr. crt. ": "46",
+          "Nume si Prenume": "Chereches Andrei Octavian",
+          "CNP": "1670220312959",
+          "address": "Zalau, str Ion Creanga, nr. 8, jud. Salaj",
+          "DGRFP": "AJFP Salaj",
+          "data adeziune": "10.01.2020"
+      },
+      {
+          "Nr. crt. ": "47",
+          "Nume si Prenume": "Cheregi Gheorghe Andrei",
+          "CNP": "1800420054774",
+          "address": "Oradea, Bd. Dacia, nr. 26, ap. 18, jud. Bihor",
+          "Functie casa/gradatia": "inspector superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "andrei.cheregi.bh@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "48",
+          "Nume si Prenume": "Chiorean Adriana",
+          "CNP": "2620310126208",
+          "address": "Turda, str. Constructorilor nr. 4, ap. 1, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "15/03/2018",
+          "address mail": "adriana.chiorean.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "49",
+          "Nume si Prenume": "Chiorean Floarea Firuta",
+          "CNP": "2620215050011",
+          "address": "Cluj Napoca, Str. Liviu Rebreanu, nr. 2, ap. 21",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "28/01/2019",
+          "address mail": "floarea.chiorean.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "50",
+          "Nume si Prenume": "Chiorean Maria",
+          "CNP": "2591117120657",
+          "address": "Cluj Napoca, str. N.Titulescu nr 8, ap 38",
+          "Functie casa/gradatia": "expert superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "15.05.2017",
+          "address mail": "maria.chiorean.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "51",
+          "Nume si Prenume": "Chis Sebastian",
+          "CNP": "1810320125909",
+          "address": "Cluj Napoca, Colonia Faget nr. 6A",
+          "Functie casa/gradatia": "inspector superior I/3",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "sebastian.chis.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "52",
+          "Nume si Prenume": "Cimpean Alindora Diana",
+          "CNP": "2730517120654",
+          "address": "Cluj Napoca, Mehedinti nr 41 ,bl N2 sc 2 ap 31",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "diana.campean.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "53",
+          "Nume si Prenume": "Ciortea Emilia Tatiana ",
+          "CNP": "2610426120693",
+          "address": "Cluj Napoca, Calea Manastur nr. 78",
+          "Functie casa/gradatia": "Consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.05.2017",
+          "address mail": "tatiana.ciortea.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "54",
+          "Nume si Prenume": "Cipcigan Corina Livia",
+          "CNP": "2700507120726",
+          "address": "Chinteni, str. Principala, nr. 631, jud. Cluj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "02.02.2018",
+          "address mail": "corina.cipcigan.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "55",
+          "Nume si Prenume": "Cipcigan Cristina Monica ",
+          "CNP": "2710331120743",
+          "address": "Cluj Napoca, str. Plopilor nr. 42 ap 23",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "cristina.cipcigan.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "56",
+          "Nume si Prenume": "Cireap Fidelia Rodica",
+          "CNP": "2630119054653",
+          "address": "Oradea, str. Olimpiadei, nr. 7B, ap. 16, jud. Bihor",
+          "Functie casa/gradatia": "sef serviciu grad II/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "fidelia.cireap.bh@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "57",
+          "Nume si Prenume": "Ciui Cristina",
+          "CNP": "2630331126197",
+          "address": "Turda, str. Hategului nr 14, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "30.05.2017",
+          "address mail": "cristina.ciui.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "58",
+          "Nume si Prenume": "Ciupa Georgeta Dorina",
+          "CNP": "2600817054667",
+          "address": "Oradea, Bd. Decebal, nr. 21, ap. 8, jud. Bihor",
+          "Functie casa/gradatia": "inspector superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "georgeta.ciupa.bh@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "59",
+          "Nume si Prenume": "Cocis Dalia",
+          "CNP": "2741124120672",
+          "address": "Cluj-Napoca, str. Sitarilor, nr. 31",
+          "Functie casa/gradatia": "inspector superior",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "31.01.2018",
+          "address mail": "dalia.cocis.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "60",
+          "Nume si Prenume": "Cocis Gabriela Daniela",
+          "CNP": "2730920124038",
+          "address": "Cluj-Napoca, str. Calistrat Hogas, nr. 7A corp C3",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "20.06.2017",
+          "address mail": "gabriela.cocis.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "61",
+          "Nume si Prenume": "Cojocaru Angela",
+          "CNP": "2681123010316",
+          "address": "Dezmir, str. Labului nr. 12 A, jud. Cluj",
+          "Functie casa/gradatia": "inspector superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "23.05.2017",
+          "address mail": "angela.cojocaru.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "62",
+          "Nume si Prenume": "Coman Cristina Diana",
+          "CNP": "2921205243839",
+          "address": "Viseu De Jos, str Principala nr. 432, jud. Maramures",
+          "Functie casa/gradatia": "inspector debutant",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "diana.coman.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "63",
+          "Nume si Prenume": "Constantin Anca",
+          "CNP": "2721103384201",
+          "address": "Cluj Napoca, bd. 21 Decembrie 1989, nr 129, ap 6",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "31.05.2017",
+          "address mail": "anca.constantin.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "64",
+          "Nume si Prenume": "Corches Cristina Elena",
+          "CNP": "2721110120688",
+          "address": "Cluj Napoca, str. Pablo Picasso nr 4 ",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "30.05.2017",
+          "address mail": "cristina.corches.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "65",
+          "Nume si Prenume": "Cornoiu Sorina",
+          "CNP": "2671225126231",
+          "address": "Cluj Napoca, str. Bucovina nr 4",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "01.02.2017",
+          "address mail": "sorina.cornoiu.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "66",
+          "Nume si Prenume": "Coros Cornelia",
+          "CNP": "2670206120694",
+          "address": "Floresti, str. Florilor, nr. 190, ap.51",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "24/12/2018",
+          "address mail": "cornelia.coros.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "67",
+          "Nume si Prenume": "Cosma Claudia Morgana",
+          "CNP": "2730714120645",
+          "address": "Floresti, str. Muzeul Apei, nr. 9, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "21/02/2017",
+          "address mail": "claudia.cosma.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "68",
+          "Nume si Prenume": "Cosma Liana Narcisa",
+          "CNP": "2751111120650",
+          "address": "Cluj Napoca, Calea Floresti nr 3, ap 110",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "22.06.2017",
+          "address mail": "liana.cosma.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "69",
+          "Nume si Prenume": "Costas Nicoleta",
+          "CNP": "2660311054653",
+          "address": "Oradea, str. Episcop Ioan, nr. 12",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "01.04.2018",
+          "address mail": "nicoleta.costas.bh@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "70",
+          "Nume si Prenume": "Covaci-Roman Ligia",
+          "CNP": "2830703125829",
+          "address": "Cluj-Napoca, str. Straja, nr. 8",
+          "Functie casa/gradatia": "inspector principal I/3",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "25.05.2017",
+          "address mail": "ligia.covaci-roman.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "71",
+          "Nume si Prenume": "Crisan Alina Corina",
+          "CNP": "2700908120723",
+          "address": "Mociu, nr. 257, jud. Cluj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "02.02.2018",
+          "address mail": "alina.crisan.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "72",
+          "Nume si Prenume": "Crisan Lucia Elena",
+          "CNP": "2700728322244",
+          "address": "Cluj Napoca, str. Dragos Voda 39",
+          "Functie casa/gradatia": "inspector principal I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "lucia.crisan.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "73",
+          "Nume si Prenume": "Crisan Maria",
+          "CNP": "2690509120032",
+          "address": "Turda, str. Aviatorilor, nr. 3, ap. 28",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "02.02.2018",
+          "address mail": "maria.crisan.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "74",
+          "Nume si Prenume": "Cristea Laura Roxana",
+          "CNP": "2850822125480",
+          "address": "Cluj-Napoca, B-dul 21 Decembrie 1989, nr. 133, ap. 64",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "17.12.2019",
+          "address mail": "laura.cristea.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "75",
+          "Nume si Prenume": "Csuros Mia",
+          "CNP": "2630501312969",
+          "address": "Zalau, str. L. Kossuth, nr. 22, jud. Salaj",
+          "DGRFP": "AJFP Salaj",
+          "data adeziune": "09.01.2020",
+          "address mail": "mia.csuros.sj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "76",
+          "Nume si Prenume": "Cuc Elena",
+          "CNP": "2710930126225",
+          "address": "Campia Turzi, str. Petru Maior nr 47, jud. Cluj",
+          "Functie casa/gradatia": "inspector principal I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "12.10.2017",
+          "address mail": "elena.cuc.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "77",
+          "Nume si Prenume": "Dan Petru",
+          "CNP": "1570815051091",
+          "address": "Beius, str. Trandafirilor, nr. 3, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "23.06.2017",
+          "address mail": "petru.dan.bh@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "78",
+          "Nume si Prenume": "Dansa Ciprian Florin",
+          "CNP": "1761216050029",
+          "address": "Oradea, str. Apostol Andrei, nr. 85, jud. Bihor",
+          "Functie casa/gradatia": "inspector superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "ciprian.dansa.bh@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "79",
+          "Nume si Prenume": "David Elvira",
+          "CNP": "2610720120735",
+          "address": "Apahida, str. Pietroasa, nr. 17, jud. Cluj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "13.11.2018",
+          "address mail": "elvira.david.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "80",
+          "Nume si Prenume": "Demian Olimpia",
+          "CNP": "2730521301991",
+          "address": "Satu Mare, Piata 25 Octombrie bl 12 ap 17, jud. Satu Mare",
+          "Functie casa/gradatia": "sef birou grad II/5",
+          "DGRFP": "AJFP Satu Mare",
+          "data adeziune": "11.07.2017",
+          "address mail": "olimpia.demian.sm@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "81",
+          "Nume si Prenume": "Dobos Horia",
+          "CNP": "1740712120670",
+          "address": "Cluj-Napoca, str. Ariesului, nr. 73",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "10.05.2017",
+          "address mail": "horia.dobos.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "82",
+          "Nume si Prenume": "Domsa Argentina",
+          "CNP": "2750125120656",
+          "address": "Salicea nr. 77G, jud. Cluj",
+          "Functie casa/gradatia": "inspector superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "argentina.domsa.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "83",
+          "Nume si Prenume": "Domsa Delia",
+          "CNP": "2670805126192",
+          "address": "Cluj Napoca, BD. 21 Decembrie nr 152 ap 77",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "delia.domsa.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "84",
+          "Nume si Prenume": "Dragan Cristina Ana",
+          "CNP": "2671023126191",
+          "address": "Turda, str. Alexandru Ioan Cuza nr 68",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "30.05.2017",
+          "address mail": "cristina.dragan.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "85",
+          "Nume si Prenume": "Dragan Maria",
+          "CNP": "2571224120643",
+          "address": "Cluj-Napoca, str. Gheorghe Dima, nr. 6, ap. 10",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "19.05.2017",
+          "address mail": "maria.dragan.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "86",
+          "Nume si Prenume": "Draghici Mariana",
+          "CNP": "2640908120658",
+          "address": "Cluj-napoca, str. Aurel Vlaicu, nr. 4, ap. 77",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.03.2019",
+          "address mail": "mariana.draghici.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "87",
+          "Nume si Prenume": "Dragomir Florentina Dana",
+          "CNP": "2631030054665",
+          "address": "Oradea, Bd. Dacia, nr. 26, ap. 6, jud. Bihor",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "13.01.2020",
+          "address mail": "florentina.dragomir.Bh@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "88",
+          "Nume si Prenume": "Dragonici Dan",
+          "CNP": "1820512125816",
+          "address": "Cluj Napoca, str. Dejului nr 24",
+          "Functie casa/gradatia": "inspector asistent I/2",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "20.12.2018",
+          "address mail": "dan.dragonici.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "89",
+          "Nume si Prenume": "Dragos Viorel",
+          "CNP": "1610316240042",
+          "address": "Satu Mare, str Wolfenbuttel, nr. 90, jud Satu Mare",
+          "Functie casa/gradatia": "consilier superior",
+          "DGRFP": "AJFP Satu Mare",
+          "data adeziune": "28.02.2018",
+          "address mail": "viorel.dragos.sm@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "90",
+          "Nume si Prenume": "Dumitrache Florentina",
+          "CNP": "2600927191322",
+          "address": "Floresti, str. Urusagului, nr. 117, ap. d/2",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.03.2019",
+          "address mail": "florentina.dumitrache.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "91",
+          "Nume si Prenume": "Ecsedi Adrian Antoniu",
+          "CNP": "1760423311811",
+          "address": "Cluj-Napoca, str. Gr. Alexandrescu, nr. 40, ap. 27",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "20.12.2018",
+          "address mail": "adrian.ecsedi.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "92",
+          "Nume si Prenume": "Enache Magdalena-Ana",
+          "CNP": "2730409120642",
+          "address": "Baciu, str. Ciocarliei, nr. 23, ap. 1, jud. Cluj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "13.11.2018",
+          "address mail": "magdalena.enache.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "93",
+          "Nume si Prenume": "Farcas Carmen Ramona",
+          "CNP": "2790211120711",
+          "address": "Cluj Napoca, str. Timisului nr 34 A",
+          "Functie casa/gradatia": "inspector superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "31.05.2017",
+          "address mail": "ramona.farcas.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "94",
+          "Nume si Prenume": "Felecan Monica",
+          "CNP": "2660513300015",
+          "address": "Cluj-Napoca, str. Pamfiliu Teodor, nr. 11",
+          "Functie casa/gradatia": "consilier superior",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.01.2017",
+          "address mail": "monica.felecan.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "95",
+          "Nume si Prenume": "Filimon Maria Leonora",
+          "CNP": "2680215054673",
+          "address": "Oradea, str. Henri Coanda, nr. 20 ap. 4, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "26.06.2017"
+      },
+      {
+          "Nr. crt. ": "96",
+          "Nume si Prenume": "Florut Ana Lacramioara",
+          "CNP": "2680808013917",
+          "address": "Oradea, str. Nufarului, nr. 82, ap.15, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "26.06.2017",
+          "address mail": "ana.florut.bh@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "97",
+          "Nume si Prenume": "Fodor Ciprian-Sever-George",
+          "CNP": "1760423054660",
+          "address": "Oradea, str. Sovata, nr. 28, ap. 15, jud. Bihor",
+          "Functie casa/gradatia": "inspector superior I/4",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "26.06.2017",
+          "address mail": "ciprian.fodor.bh@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "98",
+          "Nume si Prenume": "Gadalean Codruta Daniela",
+          "CNP": "2730903060788",
+          "address": "Floresti, str. Somesului nr 47, jud. Cluj",
+          "Functie casa/gradatia": "sef serviciu grad I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "19.05.2017",
+          "address mail": "codruta.gadalean.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "99",
+          "Nume si Prenume": "Ghejan Gabriela",
+          "CNP": "2720829120017",
+          "address": "Turda, str. macilor, nr. 9, bl. K4, ap. 36, jud. Cluj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "31.07.2019",
+          "address mail": "gabriela.ghejan.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "100",
+          "Nume si Prenume": "Gherman Adina-Alexandra",
+          "CNP": "2651019120652",
+          "address": "Cluj-Napoca, str. Nicolae Titulescu, nr. 16, ap. 8",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "29.06.2017",
+          "address mail": "adina.gherman.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "101",
+          "Nume si Prenume": "Giurgiu Mariana Monica",
+          "CNP": "2690219125191",
+          "address": "Agirescu str. Fabirici bl 82, ap 4, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "mariana.giurgiu.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "102",
+          "Nume si Prenume": "Glod Luminita Bianca",
+          "CNP": "2741207126201",
+          "address": "Turda, str. Teilor nr. 4A, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "23.05.2017",
+          "address mail": "bianca.glod.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "103",
+          "Nume si Prenume": "Goia Ioan Daniel",
+          "CNP": "1681029125203",
+          "address": "Cluj Napoca, str. Agricultorilor nr. 52, ap 1",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "15.03.2018"
+      },
+      {
+          "Nr. crt. ": "104",
+          "Nume si Prenume": "Goia Maria Mihaela",
+          "CNP": "2750103267391",
+          "address": "Cluj Napoca, str. Dambovitei nr 15, ap 2",
+          "Functie casa/gradatia": "inspector superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "22.06.2017",
+          "address mail": "mihaela.goia.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "105",
+          "Nume si Prenume": "Goian Carmen Mariana",
+          "CNP": "2821026054759",
+          "address": "Oradea, str. Galileo Galilei, nr. 26, ap7, jud. Bihor",
+          "Functie casa/gradatia": "inspector principal I/3",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "02.04.2018",
+          "address mail": "carmen.goian.bh@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "106",
+          "Nume si Prenume": "Groza Rodica",
+          "CNP": "2611105054694",
+          "address": "Oradea, str. Milcovului, nr. 20, ap.7, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "26.06.2017",
+          "address mail": "rodica.groza.bh@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "107",
+          "Nume si Prenume": "Gudea Mirela Dorica",
+          "CNP": "2690914120688",
+          "address": "Cluj Napoca, str. Grigore Alexandrescu nr 19 ,ap 17",
+          "Functie casa/gradatia": "inspector superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Mirela.Gudea.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "108",
+          "Nume si Prenume": "Gurzau Lucia Maria",
+          "CNP": "2630825120720",
+          "address": "Cluj Napoca, str. Izvorului nr 15",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Lucia.Gurzau.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "109",
+          "Nume si Prenume": "Guset Mariana",
+          "CNP": "2650525125186",
+          "address": "Cluj-Napoca, str. Calea Floresti, nr. 2B, ap. 15",
+          "Functie casa/gradatia": "consilier superior",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "21.02.2018",
+          "address mail": "Mariana.Guset.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "110",
+          "Nume si Prenume": "Hadarean Andreea Ramona",
+          "CNP": "2840528124937",
+          "address": "Cluj-Napoca, str. Carmen Silva, nr. 12A, ap. 4A",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "21.11.2018"
+      },
+      {
+          "Nr. crt. ": "111",
+          "Nume si Prenume": "Han Elvira",
+          "CNP": "2631024120658",
+          "address": "Cluj-Napoca, str. Aurel Vlaicu nr. 3, ap. 127",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "10.05.2017",
+          "address mail": "Elvira.han.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "112",
+          "Nume si Prenume": "Hanc Alina Mirela",
+          "CNP": "2710215126214",
+          "address": "Gilau, nr. 1323C ap. 2, jud. Cluj",
+          "Functie casa/gradatia": "consilier juridic",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "16.03.2018",
+          "address mail": "Alina.Hanc.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "113",
+          "Nume si Prenume": "Hent-Pap Lukacs",
+          "CNP": "1661231120700",
+          "address": "Cluj-Napoca, str. Gorunului, nr. 2, ap. 1",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "20.06.2018",
+          "address mail": "Lukacs.Hent.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "114",
+          "Nume si Prenume": "Hosu Mariana",
+          "CNP": "2670810120724",
+          "address": "Cluj Napoca, str. Vasile Carlova nr. 10",
+          "Functie casa/gradatia": "inspector superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Mariana.Hosu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "115",
+          "Nume si Prenume": "Hus Cristina Ramona",
+          "CNP": "2710730051103",
+          "address": "Beius, str. Maresal Ion Antonescu, nr. 6A, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "26.06.2017",
+          "address mail": "Cristina.Hus.BH@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "116",
+          "Nume si Prenume": "Iacob Cristina-Ioana",
+          "CNP": "2770415120721",
+          "address": "Cluj Napoca, str. Retezat nr 3, ap. 40",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.03.2019",
+          "address mail": "cristina.iacob.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "117",
+          "Nume si Prenume": "Iancau Mircea-Dorin",
+          "CNP": "1700407312988",
+          "address": "Oradea, str. Ecaterina Teodoroiu, nr. 45, ap. 2, jud. Bihor",
+          "Functie casa/gradatia": "inspector superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "09.11.2017",
+          "address mail": "Mircea Iancau/DGRFPCJ/MFINANTE"
+      },
+      {
+          "Nr. crt. ": "118",
+          "Nume si Prenume": "Ielciu Floriana",
+          "CNP": "2720527205503",
+          "address": "Cluj Napoca, Str.Grigore Alexandrescu nr47,ap 28",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Floriana.Ielciu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "119",
+          "Nume si Prenume": "Ilea Cornel",
+          "CNP": "1620812120663",
+          "address": "Cluj-Napoca, str. Scarisoara, nr. 5, ap. 35",
+          "Functie casa/gradatia": "inspector superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "20/02/2018",
+          "address mail": "Cornel.Ilea.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "120",
+          "Nume si Prenume": "Ilie Carmen Eliza",
+          "CNP": "2780804424549",
+          "address": "Bucuresti, str. Teiul Doamnei, nr. 1, bl. 8, ap. 37",
+          "DGRFP": "DGRFP Bucuresti",
+          "data adeziune": "09,07,2019",
+          "address mail": "carmen-eliza.ilie.S4@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "121",
+          "Nume si Prenume": "Ioncef Cezar Sandel ",
+          "CNP": "1840726171719",
+          "address": "Cluj Napoca, Gheorghe Dima nr 12 ap 32",
+          "Functie casa/gradatia": "inspector principal I/3",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Cezar.Ioncef.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "122",
+          "Nume si Prenume": "Ioncef Ramona",
+          "CNP": "2810615125821",
+          "address": "Cluj Napoca, Gheorghe Dima nr 12 ap 32",
+          "Functie casa/gradatia": "inspector principal I/3",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "32.09.2016"
+      },
+      {
+          "Nr. crt. ": "123",
+          "Nume si Prenume": "Ionescu Mariana",
+          "CNP": "2630709120671",
+          "address": "Cluj-Napoca, str. Brigadierilor, nr. 35A",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "08.03.2018",
+          "address mail": "Mariana.Ionescu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "124",
+          "Nume si Prenume": "Iuoras Gabriela",
+          "CNP": "2770702120735",
+          "address": "Cluj-Napoca, str. Gr. Alexandrescu, nr. 10, ap. 54",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "21.12.2018",
+          "address mail": "Gabriela.Iuoras.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "125",
+          "Nume si Prenume": "Iurcu Dana",
+          "CNP": "2730126126194",
+          "address": "Turda, str. George Bacovia nr. 29, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "30.05.2017",
+          "address mail": "Dana.Iurcu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "126",
+          "Nume si Prenume": "Iurcu Laurentiu",
+          "CNP": "1750726126221",
+          "address": "Turda, str. George Bacovia nr. 29, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "30.05.2017",
+          "address mail": "Laurentiu.Iurcu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "127",
+          "Nume si Prenume": "Jichisan Gianina Loredana",
+          "CNP": "2721008126200",
+          "address": "Cluj-Napoca, str. Anton Bacalbasa nr. 12D",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "17.12.2019",
+          "address mail": "Gianina.Jichisan.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "128",
+          "Nume si Prenume": "Kilin Andrei Istvan Catalin",
+          "CNP": "1750713120700",
+          "address": "Cluj-Napoca, str. Partizanilor, nr. 72",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "21.06.2017",
+          "address mail": "Andrei.Kilin.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "129",
+          "Nume si Prenume": "Kovacs Anna-Maria",
+          "CNP": "2740922054725",
+          "address": "Oradea, str. Moldovei, nr. 11B, jud. Bihor",
+          "Functie casa/gradatia": "inspector superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "09.11.2017",
+          "address mail": "AnnaMaria.Kovacs.BH@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "130",
+          "Nume si Prenume": "Kurucz Petru Zoltan",
+          "CNP": "1711122051100",
+          "address": "Taricia, nr. 290, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "16.06.2017",
+          "address mail": "Petru.Kurucz.BH@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "131",
+          "Nume si Prenume": "Lajosi Zita",
+          "CNP": "2660923120661",
+          "address": "Gilau, str. Principala, nr. 1121",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "01.02.2018",
+          "address mail": "Zita.lajosi.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "132",
+          "Nume si Prenume": "Lajtrik Zita",
+          "CNP": "2630304301979",
+          "address": "Satu-Mare, str. Traian Vuia, bloc C25, ap. 14, jud. Satu-Mare",
+          "DGRFP": "AJFP satu Mare",
+          "data adeziune": "10.07.2017",
+          "address mail": "Zita Lajtrik/DGFPCFSSM/SM/MFINANTE"
+      },
+      {
+          "Nr. crt. ": "133",
+          "Nume si Prenume": "Lapusan Alexandru Ion",
+          "CNP": "1600207120655",
+          "address": "Cluj Napoca, str. Iugoslaviei nr 68, ap 19",
+          "Functie casa/gradatia": "inspector superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Alexandru.Lapusan.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "134",
+          "Nume si Prenume": "Lapusan Teofil",
+          "CNP": "1610130120673",
+          "address": "Cluj Napoca, str. Scortarilor nr 5, ap 33",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Teofil.Lapusan.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "135",
+          "Nume si Prenume": "Lapusanu Roxana Rodica",
+          "CNP": "2650514120680",
+          "address": "Cluj Napoca, str. Nicolae Titulescu nr 10, ap 80",
+          "Functie casa/gradatia": "sef birou grad II/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "12.02.2018",
+          "address mail": "Roxana.Lapusanu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "136",
+          "Nume si Prenume": "Lehoczki Edith Lenke",
+          "CNP": "2580614057051",
+          "address": "Salonta, str. Petofi Sandor, nr. 11, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "26.06.2017",
+          "address mail": "Edith.Lehoczki.BH@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "137",
+          "Nume si Prenume": "Leucian Cristina-Ileana",
+          "CNP": "2641110323930",
+          "address": "Cluj-Napoca, str. Bartok Bela, nr. 5, ap. 23",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "11.07.2017",
+          "address mail": "Cristina.Leucian.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "138",
+          "Nume si Prenume": "Lucaci Mariana",
+          "CNP": "2731128120704",
+          "address": "Cluj Napoca, 21 Decembrie 1989 nr 104, ap 21",
+          "Functie casa/gradatia": "inspector principal I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "15.05.2017",
+          "address mail": "Mariana.Lucaci.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "139",
+          "Nume si Prenume": "Luparu Gabriela Natalia",
+          "CNP": "2630618126196",
+          "address": "Turda, str. Lazar Gheorghe, nr. 29, jud. Cluj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "15.03.2018",
+          "address mail": "Gabriela.Luparu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "140",
+          "Nume si Prenume": "Magdau Daniela Carmen",
+          "CNP": "2710220054666",
+          "address": "Oradea, Bd. Dacia, nr. 114, ap. 78, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "26.06.2017",
+          "address mail": "Daniela.Magdau.BH@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "141",
+          "Nume si Prenume": "Maier Elena",
+          "CNP": "2690518120756",
+          "address": "Gilau, str. Morii nr. 1037, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "20.09.2017",
+          "address mail": "Elena.Maier.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "142",
+          "Nume si Prenume": "Maier Liviu Cristian",
+          "CNP": "1731202120653",
+          "address": "Cluj Napoca, str. Padin nr. 14, ap 2",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "13.06.2017",
+          "address mail": "Cristian.Maier.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "143",
+          "Nume si Prenume": "Mandric Adriana",
+          "CNP": "2760104244227",
+          "address": "Viseu de Sus, str. Zorilor, nr. 14, jud. Maramures",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "23.03.2018",
+          "address mail": "Adriana.Mandric.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "144",
+          "Nume si Prenume": "Maniu Adriana",
+          "CNP": "2630610013541",
+          "address": "Cugir, str. Avram Iancu, nr. 16, jud. Alba",
+          "DGRFP": "AJFP Alba",
+          "data adeziune": "19.12.2019",
+          "address mail": "adriana.maniu.AB@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "145",
+          "Nume si Prenume": "Maries Mirela Lidia",
+          "CNP": "2590309125177",
+          "address": "Cluj-Napoca, str. Mircea Eliade, nr. 31, ap. 6",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "12.04.2018",
+          "address mail": "Mirela.Maries.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "146",
+          "Nume si Prenume": "Marina Mihaela",
+          "CNP": "2820123054753",
+          "address": "Paleu, str. Forvila nr 48, jud. Bihor",
+          "Functie casa/gradatia": "inspector principal I/3",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Mihaela.marina.BH@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "147",
+          "Nume si Prenume": "Marinescu Liviu",
+          "CNP": "1630825384198",
+          "address": "Ramnicu Valcea, str. Calea lui Traian, nr. 35C, jud. Valcea",
+          "DGRFP": "DGRFP Bucuresti",
+          "data adeziune": "09.07.2019"
+      },
+      {
+          "Nr. crt. ": "148",
+          "Nume si Prenume": "Matei (Vana) Simona Mariana",
+          "CNP": "2801002055090",
+          "address": "Oradea, str. Menumorut, nr. 8, ap. 10",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "24.04.2018"
+      },
+      {
+          "Nr. crt. ": "149",
+          "Nume si Prenume": "Matei Maria",
+          "CNP": "2670715120652",
+          "address": "Cluj-Napoca, str. Caransebes nr. 18",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "29.06.2017",
+          "address mail": "Maria.Matei.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "150",
+          "Nume si Prenume": "Mehelean Elvira",
+          "CNP": "2671216120641",
+          "address": "Cluj-Napoca, str. Observatorului, nr. 19, ap. 36",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "12.02.2018",
+          "address mail": "Elvira.Mehelean.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "151",
+          "Nume si Prenume": "Mesaros Nicolae",
+          "CNP": "1581203301984",
+          "address": "Satu Mare, str. Bucegi nr. 2, jud. Satu Mare",
+          "Functie casa/gradatia": "inspector superior I/5",
+          "DGRFP": "AJFP Satu Mare",
+          "data adeziune": "10.07.2017",
+          "address mail": "Nicolae.Mesaros.SM@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "152",
+          "Nume si Prenume": "Mezei Huber Ecaterina",
+          "CNP": "2791125241634",
+          "address": "Cluj-Napoca, Str. Iuliu Maniu, nr. 13, ap. 7",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "19.03.2018",
+          "address mail": "Ecaterina.Huber.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "153",
+          "Nume si Prenume": "Mihoc Claudia Veturia",
+          "CNP": "2690829057077",
+          "address": "Oradea, str. Lisabonei, nr. 3, ap. 4, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "16.06.2017",
+          "address mail": "Claudia.Mihoc.BH@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "154",
+          "Nume si Prenume": "Mihu Angela Mirela",
+          "CNP": "2730729126194",
+          "address": "Turda, Calea Victoriei Nr 108, ap 12, jud. Cluj",
+          "Functie casa/gradatia": "inspector superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "30.05.2017",
+          "address mail": "Angela.Mihu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "155",
+          "Nume si Prenume": "Mircea Anunziata Doina",
+          "CNP": "2620504120701",
+          "address": "Cluj-Napoca, str. Gheorghe Dima, nr. 43, ap. 4",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "29.05.2017",
+          "address mail": "Doina.Mircea.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "156",
+          "Nume si Prenume": "Mironescu Ileana Lucica",
+          "CNP": "2650720301005",
+          "address": "Cluj Napoca, str. Ciocarliei nr 1, ap 55",
+          "Functie casa/gradatia": "inspector superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Lucia.Mironescu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "157",
+          "Nume si Prenume": "Mirzan Lucia",
+          "CNP": "2721102126208",
+          "address": "Cluj-Napoca, str. Fantanele, nr. 16A, ap. 10",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Lucia.Mirzan.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "158",
+          "Nume si Prenume": "Modure Adina Ioana",
+          "CNP": "2740803312978",
+          "address": "Cluj Napoca, Colonia Faget nr 10",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Adina.Modure.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "159",
+          "Nume si Prenume": "Modure Dorin",
+          "CNP": "1740607260054",
+          "address": "Cluj Napoca, Colonia Faget nr 10",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Dorin.Modure.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "160",
+          "Nume si Prenume": "Moldovan Zamfira",
+          "CNP": "2610621126217",
+          "address": "Turda, str. Ecaterina Teodoroiu, nr. 2, jud. Cluj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "17.12.2018",
+          "address mail": "Zamfira.Moldovan.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "161",
+          "Nume si Prenume": "Morea Adriana",
+          "CNP": "2600829312951",
+          "address": "Zalau, str. Mihai Viteazul, nr. 17, ap. 147, jud. Salaj",
+          "DGRFP": "AJFP Salaj",
+          "data adeziune": "21.01.2020",
+          "address mail": "adriana.morea.sj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "162",
+          "Nume si Prenume": "Muntean Mihaela Adina",
+          "CNP": "2760404310012",
+          "address": "Oradea, str. Onestilor, nr. 90, ap. 14, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Mihaela.Muntean.BH@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "163",
+          "Nume si Prenume": "Munteanu Florina Traiana",
+          "CNP": "2781007120708",
+          "address": "Bucuresti, Alea Valea Prahovei nr. 1A BL 825,ap 34",
+          "Functie casa/gradatia": "inspector principal I/3",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Florina.Munteanu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "164",
+          "Nume si Prenume": "Muresan Margareta",
+          "CNP": "2670313123156",
+          "address": "Cluj Napoca, str. Retezat nr 7, ap 22",
+          "Functie casa/gradatia": "sef serviciu grad I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Margareta.Muresan.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "165",
+          "Nume si Prenume": "Muresan Simona-Maria",
+          "CNP": "2720607123131",
+          "address": "Dej, str. Tomis, nr. 17, ap. 5, jud. Cluj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "04.09.2018",
+          "address mail": "Simona.Muresan.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "166",
+          "Nume si Prenume": "Muresan Vasile ",
+          "CNP": "1580606124055",
+          "address": "Iclod nr. 215 B, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Vasile.Muresan.CJ@anaf.ro,"
+      },
+      {
+          "Nr. crt. ": "167",
+          "Nume si Prenume": "Nemes Mihaela",
+          "CNP": "2671201126254",
+          "address": "Turda, str. Alexandru Ioan Cuza nr 117A, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "30.05.2017",
+          "address mail": "Mihaela.Nemes.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "168",
+          "Nume si Prenume": "Nicola Ioana Gabriela",
+          "CNP": "2670918120017",
+          "address": "Campia Turzii, str. Aviatorilor nr. 1, ap. 46, jud. Cluj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "16/03/2018",
+          "address mail": "Ioana.Nicola.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "169",
+          "Nume si Prenume": "Noja Adriana",
+          "CNP": "2670411120669",
+          "address": "Cluj-Napoca, str. Gr. Alexandrescu, nr. 55, ap. 43",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "12.05.2017",
+          "address mail": "Adriana.Noja.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "170",
+          "Nume si Prenume": "Olaru Ana",
+          "CNP": "1701011120015",
+          "address": "Cluj Napoca, Donat fn bl XI sc D et 2 ap 71",
+          "Functie casa/gradatia": "inspector asistent I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "30.05.2017",
+          "address mail": "Ana.Olaru.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "171",
+          "Nume si Prenume": "Onaca Gabriela Ofelia",
+          "CNP": "2671105126198",
+          "address": "Turda, str. Tineretului nr 12, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "30.05.2017",
+          "address mail": "Gabriela.Onaca.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "172",
+          "Nume si Prenume": "Onisor Alexandrina",
+          "CNP": "2740809120047",
+          "address": "Campia Turzii, str. Andrei Muresanu nr 44, jud. Cluj",
+          "Functie casa/gradatia": "inspector superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "06.02.2018",
+          "address mail": "Alexandrina.Onisor.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "173",
+          "Nume si Prenume": "Oroian Pandea Gianina Ancuta",
+          "CNP": "2761122260036",
+          "address": "Ludus, str. Zorilor, nr. 3B, jud. Mures",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "13.11.2018",
+          "address mail": "Gianina.Oroian.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "174",
+          "Nume si Prenume": "Oras Vasile-Liviu",
+          "CNP": "1690404051091",
+          "address": "Oradea, str. Prof. Dr. Gh. Marinescu, nr. 16, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "24.04.2018",
+          "address mail": "Vasile.Oras.BH@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "175",
+          "Nume si Prenume": "Ordeanu Natalia Elena",
+          "CNP": "2750528012538",
+          "address": "Cluj Napoca, str. Muresului nr 35, ap 9",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Natalia.ordeanu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "176",
+          "Nume si Prenume": "Pacurar Mihaela Daciana",
+          "CNP": "2710806313009",
+          "address": "Cluj Napoca, str. Sesului nr 2 ap 35",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Daciana.Pacurar.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "177",
+          "Nume si Prenume": "Panta Stanca",
+          "CNP": "2740812126191",
+          "address": "Cluj-Napoca, str. Mehedinti nr. 9, ap. 36",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "03.07.2017",
+          "address mail": "Stanca.Panta.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "178",
+          "Nume si Prenume": "Pantea Maria Cristina",
+          "CNP": "2710211110653",
+          "address": "Oradea, Str. Onestilor, nr. 6, ap. 2",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "20.09.2017",
+          "address mail": "Cristina.pantea.BH@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "179",
+          "Nume si Prenume": "Pantea Mihaela",
+          "CNP": "2710817126211",
+          "address": "Cluj-Napoca, str. Fantanele, nr. 5, ap.125",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "19.05.2017",
+          "address mail": "Mihaela.Pantea.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "180",
+          "Nume si Prenume": "Pantis Ionel Avram",
+          "CNP": "1721231051105",
+          "address": "Oradea, str. Stefan Cel Mare, nr. 69, ap. 37, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "26.06.2017",
+          "address mail": "Ionel.Pantis.BH@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "181",
+          "Nume si Prenume": "Pantis Victoria",
+          "CNP": "2670305054665",
+          "address": "Oradea, str. Cornului, nr. 5, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "26.06.2017",
+          "address mail": "Victoria.Pantis.BH@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "182",
+          "Nume si Prenume": "Pasc Ana",
+          "CNP": "2600513120695",
+          "address": "Cluj-Napoca, str. Eugen Ionescu, nr. 17",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "02.02.2018",
+          "address mail": "Ana.Pasc.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "183",
+          "Nume si Prenume": "Patac  Sergiu Ioan",
+          "CNP": "1740411124041",
+          "address": "Gherla, str. Parcului nr. 19/B, ap 15, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "15.05.2017",
+          "address mail": "Sergiu.Patac.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "184",
+          "Nume si Prenume": "Paul Claudiu",
+          "CNP": "1730101120664",
+          "address": "Cluj-Napoca, str. Arinilor, nr. 17, ap. 11",
+          "Functie casa/gradatia": "inspector superior I/4",
+          "DGRFP": "DGRFP cluj-Napoca",
+          "data adeziune": "03.07.2017",
+          "address mail": "Claudiu.Paul.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "185",
+          "Nume si Prenume": "Pavel Roxana Luminita",
+          "CNP": "2720226010314",
+          "address": "Cluj Napoca, str. Pasteur nr 52 et 2 ap 39",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.05.2017",
+          "address mail": "Roxana.Pavel.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "186",
+          "Nume si Prenume": "Paven Rodica-Mihaela",
+          "CNP": "2671110125181",
+          "address": "Cluj-Napoca, str. Liviu Rebreanu, nr. 58, ap. 5",
+          "Functie casa/gradatia": "consilier superior",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.01.2018",
+          "address mail": "Rodica.Paven.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "187",
+          "Nume si Prenume": "Persa Iuliu Dan",
+          "CNP": "1751005124033",
+          "address": "Gherla, str. Tudor Vladimirescu nr. 7, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "15.05.2017",
+          "address mail": "Dan.Persa.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "188",
+          "Nume si Prenume": "Persa Violeta",
+          "CNP": "2680123124041",
+          "address": "Cluj-Napoca, str. Jean Jaures, nr. 6A, ap. 9",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "24.12.2018",
+          "address mail": "Violeta.Persa.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "189",
+          "Nume si Prenume": "Pintea Aurora Claudia",
+          "CNP": "2671224120746",
+          "address": "Cluj-Napoca, str. Nasaud, nr.8, ap. 50",
+          "Functie casa/gradatia": "inspector superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "19.05.2017",
+          "address mail": "Aurora.Pintea.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "190",
+          "Nume si Prenume": "Pintilie Anca-valeria",
+          "CNP": "2740105120702",
+          "address": "Cluj-Napoca, str. Alverna, nr. 67, ap. 6",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "01.04.2019",
+          "address mail": "anca.pintilie.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "191",
+          "Nume si Prenume": "Pirv Maria Floarea",
+          "CNP": "2620306126209",
+          "address": "Turda, str. Macilor nr 20, ap 25, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "30.05.2017",
+          "address mail": "Maria-Floarea.Pirv.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "192",
+          "Nume si Prenume": "Pirvu Adriana Maria",
+          "CNP": "2710709312951",
+          "address": "Cluj Napoca, str. Rapsodiei nr 6, ap 5",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Adriana.Pirvu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "193",
+          "Nume si Prenume": "Pollak Oskar Robert",
+          "CNP": "1810104125911",
+          "address": "Cluj-Napoca, str. Bradutului, nr. 16",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "12.04.2018",
+          "address mail": "Robert.Pollak.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "194",
+          "Nume si Prenume": "Pop Angela",
+          "CNP": "2711006120652",
+          "address": "Cluj-Napoca, str. Oituz, nr. 3",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "16.03.2018",
+          "address mail": "Angela.Pop.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "195",
+          "Nume si Prenume": "Pop Augustin",
+          "CNP": "1571229125185",
+          "address": "Aghiresu, str. Primariei, nr. 367A, jud. Cluj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.02.2018"
+      },
+      {
+          "Nr. crt. ": "196",
+          "Nume si Prenume": "Pop Calin Dumitru",
+          "CNP": "1741103302026",
+          "address": "Satu Mare, str. N Iorga nr 8, jud. Satu Mare",
+          "Functie casa/gradatia": "referent superior III/4",
+          "DGRFP": "AJFP Satu Mare",
+          "data adeziune": "10.07.2017",
+          "address mail": "calin.pop.SM@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "197",
+          "Nume si Prenume": "Pop Carmen Silvana",
+          "CNP": "2800214125824",
+          "address": "Apahida str. Orizontului 13, jud. Cluj",
+          "Functie casa/gradatia": "inspector principal I/3",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Silvana.Pop.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "198",
+          "Nume si Prenume": "Pop Daniela Maria",
+          "CNP": "2660528312963",
+          "address": "Zalau, Aleea Astrei nr. 3, ap. 26, jud. Salaj",
+          "DGRFP": "AJFP Salaj",
+          "data adeziune": "09.01.2020"
+      },
+      {
+          "Nr. crt. ": "199",
+          "Nume si Prenume": "Pop Doina Mariana",
+          "CNP": "2580102054741",
+          "address": "Oradea, str. Nufarului, nr. 60, ap.10, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "26.06.2017",
+          "address mail": "Doina.Pop.BH@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "200",
+          "Nume si Prenume": "Pop Dorina Lili",
+          "CNP": "2631215120679",
+          "address": "Cluj-Napoca, str. Cocorilor, nr. 3",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "29.06.2017",
+          "address mail": "Dorina.Pop.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "201",
+          "Nume si Prenume": "Pop Emil",
+          "CNP": "1650908120689",
+          "address": "Cluj-Napoca, str. Ion Mester, nr. 1, ap. 107",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "06.12.2018",
+          "address mail": "Emil.Pop.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "202",
+          "Nume si Prenume": "Pop Emilia",
+          "CNP": "2661214120662",
+          "address": "Tauti nr. 128A, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "15.05.2017",
+          "address mail": "Emilia.Pop.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "203",
+          "Nume si Prenume": "Pop Gligore",
+          "CNP": "1600406312970",
+          "address": "Zalau, Aleea Astrei nr. 3, ap. 27, jud. Salaj",
+          "DGRFP": "AJFP Salaj",
+          "data adeziune": "09.01.2020",
+          "address mail": "gligore.pop.sj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "204",
+          "Nume si Prenume": "Pop Iuliana Calina",
+          "CNP": "2650114301991",
+          "address": "Paulesti, str. Viorele nr. 8, jud. Satu Mare",
+          "Functie casa/gradatia": "sef serviciu gr.II",
+          "DGRFP": "AJFP Satu Mare",
+          "data adeziune": "10.07.2017",
+          "address mail": "Iuliana.Pop.SM@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "205",
+          "Nume si Prenume": "Pop Lucretia",
+          "CNP": "2721205060019",
+          "address": "Cluj Napoca, str. Tractoristilor nr 33",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Lucretia.Pop.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "206",
+          "Nume si Prenume": "Pop Mariana",
+          "CNP": "2630316120738",
+          "address": "Cluj Napoca, str. Morii nr. 5 A",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "22.05.2017",
+          "address mail": "Mariana.Pop.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "207",
+          "Nume si Prenume": "Pop Monika Erzsebet",
+          "CNP": "2750504057067",
+          "address": "Paleu, nr. 1160, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "26.06.2017",
+          "address mail": "Monika Pop/DGFPCFSBH/BH/MFINANTE"
+      },
+      {
+          "Nr. crt. ": "208",
+          "Nume si Prenume": "Popa Claudia Ioana",
+          "CNP": "2770608054687",
+          "address": "Oradea, str. Aluminei, nr. 84, ap. 8, jud. Bihor",
+          "Functie casa/gradatia": "inspector principal I/4",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "26.06.2017",
+          "address mail": "Claudia.Popa.BH@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "209",
+          "Nume si Prenume": "Popa Marius Vasile",
+          "CNP": "1711229054707",
+          "address": "Oradea, str. Mestesugarilor, nr. 1, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "09.11.2017",
+          "address mail": "Marius.Popa.BH@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "210",
+          "Nume si Prenume": "Popa Vasile Marius",
+          "CNP": "1560912312968",
+          "address": "Cluj Napoca, str. Oasului nr 86-90 bl H2,ET 2 ,ap 46",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Marius.Popa.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "211",
+          "Nume si Prenume": "Popa Viorel",
+          "CNP": "1630716052141",
+          "address": "Stei, str. Petrileni, nr. 13, ap. 7, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "22.06.2017",
+          "address mail": "Viorel.Popa.BH@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "212",
+          "Nume si Prenume": "Popa-Bota Mihaela",
+          "CNP": "2710717120719",
+          "address": "Cluj Napoca, str. Campului Nr 231 ap 3",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Mihaela.Popa-Bota.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "213",
+          "Nume si Prenume": "Popon Daniela Aurora",
+          "CNP": "2610307020056",
+          "address": "Cluj- Napoca, str. Vanatorului, nr. 20A",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "21.11.2018",
+          "address mail": "Daniela.Popon.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "214",
+          "Nume si Prenume": "Popovici Alin Dumitru",
+          "CNP": "1740416120662",
+          "address": "Cluj Napoca, Calea Floresti nr 3 bl T2 sc 2 ap 36",
+          "Functie casa/gradatia": "inspector superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Alin.Popovici.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "215",
+          "Nume si Prenume": "Racolta Ioan Vasile",
+          "CNP": "1690212120028",
+          "address": "Calarasi, nr. 309",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "17/12/2018",
+          "address mail": "Ioan.Racolta.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "216",
+          "Nume si Prenume": "Racolta Pop Crina",
+          "CNP": "2830225303318",
+          "address": "Supuru de Jos, Noua nr. 46, Jud. Satu Mare",
+          "Functie casa/gradatia": "inspector superior I/4",
+          "DGRFP": "AJFP Satu Mare",
+          "data adeziune": "11.07.2017"
+      },
+      {
+          "Nr. crt. ": "217",
+          "Nume si Prenume": "Radu Claudia Emilia",
+          "CNP": "2730310310289",
+          "address": "Cluj Napoca, str. Mogosoaia nr 1 bl G1 ap 13",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "31.05.2017",
+          "address mail": "Claudia.Radu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "218",
+          "Nume si Prenume": "Radu Gabriela",
+          "CNP": "2750719123130",
+          "address": "Cluj-Napoca, Aleea Negoiu, nr. 10C, ap. 17",
+          "Functie casa/gradatia": "inspector principal I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "20.06.2017",
+          "address mail": "Gabriela.Radu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "219",
+          "Nume si Prenume": "Ragusitu Mihaela",
+          "CNP": "2721017120683",
+          "address": "Cluj Napoca, str. Campului nr 231 ap 135",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Mihaela.Ragusitu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "220",
+          "Nume si Prenume": "Raiu Zita Claudia Marta",
+          "CNP": "2710604120682",
+          "address": "Cluj Napoca, str. Dorului nr 16",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Zita.Raiu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "221",
+          "Nume si Prenume": "Ranta Paul Mihai",
+          "CNP": "1750917120671",
+          "address": "Floresti, str. Florilor, nr. 184, ap.8, jud. Cluj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "06/12/2018",
+          "address mail": "Paul.Ranta.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "222",
+          "Nume si Prenume": "Rednic Eleonora",
+          "CNP": "2720703123142",
+          "address": "Cluj Napoca, str. Becas nr. 11 b",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Eleonora.Rednic.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "223",
+          "Nume si Prenume": "Riureanu Ana Rodica",
+          "CNP": "2600624120697",
+          "address": "Apahida, str. Libertatii, nr. 150, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "24.05.2017",
+          "address mail": "Rodica.Riureanu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "224",
+          "Nume si Prenume": "Roman Ioana",
+          "CNP": "2670102361948",
+          "address": "Cluj-Napoca, str. Busteni nr. 8, ap. 1",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "01.03.2018",
+          "address mail": "Ioana.Roman.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "225",
+          "Nume si Prenume": "Roman Mariana Victoria",
+          "CNP": "2790213260049",
+          "address": "Cluj-Napoca, str. Mihai Romanul, nr. 61",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "15.03.2018",
+          "address mail": "Mariana.Roman.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "226",
+          "Nume si Prenume": "Rus Ioan Vasile ",
+          "CNP": "1620920120691",
+          "address": "Cluj Napoca, Calea Manastur nr. 103, ap 39",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "15.05.2017",
+          "address mail": "Ioan.Rus.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "227",
+          "Nume si Prenume": "Rus Mihaela Cristina",
+          "CNP": "2720901120683",
+          "address": "Cluj Napoca, Col.Sopor nr 9",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Cristina.Rus.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "228",
+          "Nume si Prenume": "Rus Simona Liliana",
+          "CNP": "2691130126197",
+          "address": "Turda, str. Cinepisti nr 2A, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Simona.Rus.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "229",
+          "Nume si Prenume": "Sabau-Alexandru Alina Gabriela",
+          "CNP": "2860414430056",
+          "address": "Bucuresti,Soseaua Viilor nr 92 Bl 4 A sc 2 ap 45",
+          "Functie casa/gradatia": "inspector superior I/2",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "22.06.2017",
+          "address mail": "alina.alexandru.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "230",
+          "Nume si Prenume": "Sabou Alin Emilian",
+          "CNP": "1810812125781",
+          "address": "Cluj Napoca, str. Campului nr. 244 A ap 7 ",
+          "Functie casa/gradatia": "inspector superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "09.06.2017",
+          "address mail": "Alin.Sabou.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "231",
+          "Nume si Prenume": "Sabou Petruta Florentina",
+          "CNP": "2790403120725",
+          "address": "Cluj-Napoca, str. Campului, nr. 244 A, ap. 7",
+          "Functie casa/gradatia": "consilier superior I/3",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "09.06.2017",
+          "address mail": "Petruta.Fesnic.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "232",
+          "Nume si Prenume": "Salajean Ciprian Cosmin",
+          "CNP": "1761012120711",
+          "address": "Cluj Napoca, str. Hateg nr 26 ap 5",
+          "Functie casa/gradatia": "inspector superior I/3",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Ciprian.Salajean.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "233",
+          "Nume si Prenume": "Sarb Cristina Adela",
+          "CNP": "2740613120663",
+          "address": "Cluj Napoca, str. Marginasa nr. 41",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "30.05.2017",
+          "address mail": "Adela.Sarb.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "234",
+          "Nume si Prenume": "Scortaru Simona Cristina",
+          "CNP": "2740407120671",
+          "address": "Cluj-Napoca, str. Iezer, nr. 4, ap. 23",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "20.06.2017",
+          "address mail": "Simona.Scortaru.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "235",
+          "Nume si Prenume": "Scripcariu Elena",
+          "CNP": "2681204224534",
+          "address": "Pascani, str. Stefan cel Mare, nr. 9, ap. 27, jud. Iasi",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "17.09.2019",
+          "address mail": "elena.scripcariu.is@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "236",
+          "Nume si Prenume": "Sebestyen Ioana Adela",
+          "CNP": "2751219123133",
+          "address": "Dej, Piata Bobalna nr 7 ap 3, jud. Cluj",
+          "Functie casa/gradatia": "inspector superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Adela.Sebestyen.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "237",
+          "Nume si Prenume": "Seles Florina",
+          "CNP": "2740507100011",
+          "address": "Cluj Napoca, str. Silvaniei nr 37",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Florina.Seles.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "238",
+          "Nume si Prenume": "Seres Liana Mariana",
+          "CNP": "2750922054678",
+          "address": "Livada de Bihor, nr. 323, jud. Bihor",
+          "Functie casa/gradatia": "inspector superior I/5",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "26.06.2017",
+          "address mail": "Liana.Seres.BH@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "239",
+          "Nume si Prenume": "Silaghi Maria Magdalena",
+          "CNP": "2730131126209",
+          "address": "Turda, str. Liberatii nr 4, ap 42, jud. Cluj",
+          "Functie casa/gradatia": "inspector superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "30.05.2017",
+          "address mail": "Magdalena.Silaghi.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "240",
+          "Nume si Prenume": "Sima Cristina Anamaria",
+          "CNP": "2761217311245",
+          "address": "Zalau, str. Corneliu Coposu, nr. 2, ap. 2, jud. Salaj",
+          "DGRFP": "AJFP Salaj",
+          "data adeziune": "10.01.2020",
+          "address mail": "Cristina.sima.sj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "241",
+          "Nume si Prenume": "Simon Monica Sava",
+          "CNP": "2811008243827",
+          "address": "Cluj-Napoca, str. edgar Quinet, nr. 32, ap. 6",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "23.12.2019",
+          "address mail": "monica.simon.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "242",
+          "Nume si Prenume": "Sintejudeanu Valeriu",
+          "CNP": "1590115120667",
+          "address": "Cluj-Napoca, str. Aurel Suciu, nr. 42, ap. 7",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "10.05.2017",
+          "address mail": "Valeriu.Sintejudeanu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "243",
+          "Nume si Prenume": "Soim Silvia Deliuta",
+          "CNP": "2680930124046",
+          "address": "Cluj Napoca, str. M.Eliade nr 44 A et 1 ap 4",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "15.05.2017",
+          "address mail": "Silvia.Soim.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "244",
+          "Nume si Prenume": "Soporean Mirela",
+          "CNP": "2580512120755",
+          "address": "Cluj-Napoca, str. Moise Nicoara, nr. 21",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "15.03.2018",
+          "address mail": "Minela.Soporean.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "245",
+          "Nume si Prenume": "Stan Calin Darius",
+          "CNP": "1830829125772",
+          "address": "Floresti, str. Somesului nr 44, jud. Cluj",
+          "Functie casa/gradatia": "inspector superior I/2",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "10.05.2017",
+          "address mail": "Calin.Stan.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "246",
+          "Nume si Prenume": "Stan Cosmin Alexandru",
+          "CNP": "1731212120640",
+          "address": "Cluj Napoca, str. Fantanele nr. 32, ap 68",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Cosmin.Stan.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "247",
+          "Nume si Prenume": "Stan Ovidiu",
+          "CNP": "1750417280813",
+          "address": "Bucuresti, str. Liviu rebreanu, nr. 60-64, bl. 1, ap. 34, sect. 3",
+          "DGRFP": "DGRFP Bucuresti",
+          "data adeziune": "09.07.2019",
+          "address mail": "stanovidiu75@yahoo.com"
+      },
+      {
+          "Nr. crt. ": "248",
+          "Nume si Prenume": "Staniste Felicia Marinela",
+          "CNP": "2640907125187",
+          "address": "Gilau, str Principala FN, bl 14,ap 5, jud. Cluj",
+          "Functie casa/gradatia": "inspector superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "27.06.2017",
+          "address mail": "Felicia.Staniste.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "249",
+          "Nume si Prenume": "Stiube Petru",
+          "CNP": "1740629051101",
+          "address": "Dobresti, nr. 76, jud. Bihor",
+          "Functie casa/gradatia": "inspector superior I/4",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "26.06.2017",
+          "address mail": "Petru.Stiube.BH@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "250",
+          "Nume si Prenume": "Suaresan Claudiu Adrian",
+          "CNP": "1720905120666",
+          "address": "Cluj-Napoca, str. Nicolae Titulescu, nr. 28, ap. 33",
+          "Functie casa/gradatia": "consilier superior",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "28.06.2017",
+          "address mail": "Claudiu.Suaresan.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "251",
+          "Nume si Prenume": "Suciu Angela Maria",
+          "CNP": "2720727012538",
+          "address": "Turda, Piata Romana nr 15 ap 21, jud. Cluj",
+          "Functie casa/gradatia": "inspector superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "31.05.2017",
+          "address mail": "Angela.Suciu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "252",
+          "Nume si Prenume": "Suciu Cristina Daniela",
+          "CNP": "2681025120731",
+          "address": "Cluj-Napoca, str. Ioan Buteanu, nr. 1, ap. 2",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "01.02.2018",
+          "address mail": "Cristina.Suciu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "253",
+          "Nume si Prenume": "Sulyok Romulus",
+          "CNP": "1710128312954",
+          "address": "Zalau, str. Corneliu Coposu, nr. 21A, jud. Salaj",
+          "DGRFP": "AJFP Salaj",
+          "data adeziune": "10.01.2020",
+          "address mail": "romulus.sulyok.sj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "254",
+          "Nume si Prenume": "Sutea Sorina Lacramioara",
+          "CNP": "2710124120642",
+          "address": "Cluj Napoca, str. Donath nr 23 bl M3x sc III ap 21",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Sorina.Sutea.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "255",
+          "Nume si Prenume": "Szasz Adina",
+          "CNP": "2700929203132",
+          "address": "Dej, str. Iuliu Maniu, nr. 2, ap. 26, jud. Cluj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "01.02.2017",
+          "address mail": "Adina.Szasz.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "256",
+          "Nume si Prenume": "Szekely Balazs Attila",
+          "CNP": "1780701120712",
+          "address": "Cluj Napoca, str. Garoafelor nr. 17",
+          "Functie casa/gradatia": "sef serviciu grad II/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "23.05.2017",
+          "address mail": "Attila.Szekely.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "257",
+          "Nume si Prenume": "Szekely Csilla Adel",
+          "CNP": "2730315120029",
+          "address": "Cluj-Napoca, str. Fagetului, nr. 48, jud Cluj",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "08.12.2017",
+          "address mail": "Csilla.Szekely.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "258",
+          "Nume si Prenume": "Tacaci Aurelia",
+          "CNP": "2640329120676",
+          "address": "Cluj-Napoca, Calea Manastur, nr. 93, ap. 64",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "02.02.2018",
+          "address mail": "Aurelia.Tacaci.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "259",
+          "Nume si Prenume": "Tanchici Constantin",
+          "CNP": "1620519120671",
+          "address": "Belis, str. Principala nr. 378, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Constantin.Tanchici.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "260",
+          "Nume si Prenume": "Tarau Violeta",
+          "CNP": "2710718057051",
+          "address": "Oradea, str. Eftimie Murgu, nr. 62, ap. 6, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Violeta.Tarau.BH@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "261",
+          "Nume si Prenume": "Tirnovan Mirela",
+          "CNP": "2690224124036",
+          "address": "Gherla, Aleea Zorilor, nr. 8",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "01.02.2018",
+          "address mail": "Mirela.Tirnovan.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "262",
+          "Nume si Prenume": "Tise Eugen ",
+          "CNP": "1630722060780",
+          "address": "Manastireni, str. Manasturul Romanesc nr 140, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "20.09.2017",
+          "address mail": "Eugen.Tise.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "263",
+          "Nume si Prenume": "Tocaciu Aurelia",
+          "CNP": "2590823126198",
+          "address": "Cluj Napoca, str. Azuga nr. 2 ap 26",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Aurelia.Tocaciu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "264",
+          "Nume si Prenume": "Tolnay Paraschiva Margareta",
+          "CNP": "2630109054666",
+          "address": "Oradea, str. Selimbarului, nr. 9, ap1, jud. Bihor",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "26.06.2017",
+          "address mail": "paraschiva.Tolnay.BH@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "265",
+          "Nume si Prenume": "Torok Eva ",
+          "CNP": "2650416124030",
+          "address": "Gherla, str. Tudor Vladimirescu nr. 75, jud. Cluj",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "15.05.2017",
+          "address mail": "Eva.Torok.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "266",
+          "Nume si Prenume": "Toth Andrea Yvette",
+          "CNP": "2901129303924",
+          "address": "Livada, str. 16 Februarie nr 26, jud. Satu Mare",
+          "Functie casa/gradatia": "inspector debutant",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.06.2017",
+          "address mail": "Andrea.Toth.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "267",
+          "Nume si Prenume": "Toth Lidia Mariana",
+          "CNP": "2680309120010",
+          "address": "Campia Turzi, str. Teilor nr. 39B, jud. Cluj",
+          "Functie casa/gradatia": "inspector superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "08.07.2017",
+          "address mail": "Lidia.Toth.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "268",
+          "Nume si Prenume": "Toth Sorin",
+          "CNP": "1770419302006",
+          "address": "Satu Mare, str. D. Careiului nr. 34, ap 74, jud. Satu Mare",
+          "Functie casa/gradatia": "sef serviciu grad II/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "10.07.2017",
+          "address mail": "Sorin.Toth.SM@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "269",
+          "Nume si Prenume": "Trif Dorina Marinela",
+          "CNP": "2680728125186",
+          "address": "Floresti, str. Plopilor, nr. 30, jud. Cluj",
+          "Functie casa/gradatia": "inspector superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "24.05.2017",
+          "address mail": "Dorina.Trif.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "270",
+          "Nume si Prenume": "Trif Mihaela-Rodica",
+          "CNP": "2770715123144",
+          "address": "Dej, Aleea Tomis nr. 7, ap. 26",
+          "Functie casa/gradatia": "inspector superior I/3",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "10.05.2017",
+          "address mail": "Mihaela.Trif.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "271",
+          "Nume si Prenume": "Trifan Camelia Luminita",
+          "CNP": "2671225126221",
+          "address": "Turda, str. Cheii nr 11, jud. Cluj",
+          "Functie casa/gradatia": "inspector superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "30.05.2017",
+          "address mail": "Camelia.Trifan.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "272",
+          "Nume si Prenume": "Trombitas Tunde",
+          "CNP": "2700514123139",
+          "address": "Dej, str. Traian, nr. 6, jud. Cluj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "07.02.2018",
+          "address mail": "Tunde.Trombitas.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "273",
+          "Nume si Prenume": "Truta Maria",
+          "CNP": "2690420125173",
+          "address": "Cluj-Napoca, str. Bucium, nr. 13, ap.20",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "30.05.2017",
+          "address mail": "Maria.petruta.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "274",
+          "Nume si Prenume": "Tulai Ilie Octavian",
+          "CNP": "1600123126193",
+          "address": "Cluj-Napoca, str. Octavian Fodor, nr. 4",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "SESCS Cluj-Napoca",
+          "data adeziune": "02.07.2018",
+          "address mail": "Ilie Tulai/DO_EXEC_SILITA/ANAF/MFINANTE"
+      },
+      {
+          "Nr. crt. ": "275",
+          "Nume si Prenume": "Tulai Elena",
+          "CNP": "2640820120020",
+          "address": "Comuna Luna Nr 66, jud. Cluj",
+          "Functie casa/gradatia": "inspector superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "12.02.2018",
+          "address mail": "Elena.Tulai.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "276",
+          "Nume si Prenume": "Tulai Mihaela",
+          "CNP": "2670925182855",
+          "address": "Cluj-Napoca, str. Octavian Fodor, nr. 4",
+          "Functie casa/gradatia": "consilier superior",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "01.02.2018",
+          "address mail": "Mihaela.Tulai.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "277",
+          "Nume si Prenume": "Tusa Laurentiu Paul",
+          "CNP": "1680225120672",
+          "address": "Cluj Napoca, str. Valea Fantinelor nr 30",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "17.01.2018",
+          "address mail": "Paul.Tusa.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "278",
+          "Nume si Prenume": "Tusa Simona",
+          "CNP": "2730814120681",
+          "address": "Cluj Napoca, str. Valea Fantinelor nr 30",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "01.02.2018",
+          "address mail": "Simona.Tusa.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "279",
+          "Nume si Prenume": "Udrea Simona",
+          "CNP": "2690709204096",
+          "address": "Lupeni, str. Tudor Vladimirescu, nr. 20, ap.5, jud. Hunedoara",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "01.04.2019",
+          "address mail": "simona.udrea.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "280",
+          "Nume si Prenume": "Udrescu Stelian",
+          "CNP": "1630513120719",
+          "address": "Cluj-Napoca, str. Stejarului nr. 9",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "01/03/2018",
+          "address mail": "Stelian.Udrescu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "281",
+          "Nume si Prenume": "Ulici Gabriela",
+          "CNP": "2710810384203",
+          "address": "Oradea, str. Colinelor, nr. 35",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "AJFP Bihor",
+          "data adeziune": "26.06.2017",
+          "address mail": "Gabriela.Ulici.BH@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "282",
+          "Nume si Prenume": "Ulici Raluca Mihaela",
+          "CNP": "2810118244499",
+          "address": "Sighetu M, str. Popa Lupu nr. 8, ap 23, jud. Maramures",
+          "Functie casa/gradatia": "inspector superior I/3",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "23.05.2017",
+          "address mail": "Raluca.Ulici.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "283",
+          "Nume si Prenume": "Varga Annamaria",
+          "CNP": "2780923293137",
+          "address": "Cluj-Napoca, Bd. Nicolae Titulescu, nr. 17, ap. 7",
+          "Functie casa/gradatia": "inspector superior I/3",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "26.05.2017",
+          "address mail": "Annamaria.varga.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "284",
+          "Nume si Prenume": "Vicasiu Mihaela",
+          "CNP": "2720911060771",
+          "address": "Cluj-Napoca, str. Observatorului, nr. 17, ap. 5",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "10.05.2017",
+          "address mail": "Mihaela.Vicasiu.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "285",
+          "Nume si Prenume": "Vlad Cristina",
+          "CNP": "2790107323914",
+          "address": "Cluj-Napoca, str. Buftea, nr. 10, ap. 20",
+          "Functie casa/gradatia": "consilier superior I/4",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "16.02.2018",
+          "address mail": "Cristina.Vlad.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "286",
+          "Nume si Prenume": "Zadic Ioan",
+          "CNP": "1610705120023",
+          "address": "Campia Turzii, str. Motiilor nr 2, jud. Cluj ",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "18.05.2017",
+          "address mail": "Ioan.Zadic.CJ@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "287",
+          "Nume si Prenume": "Zancu Adriana Renate",
+          "CNP": "2660914120018",
+          "address": "Campia Turzii, str. Traian nr. 149",
+          "Functie casa/gradatia": "consilier superior I/5",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "21.11.2018"
+      },
+      {
+          "Nr. crt. ": "288",
+          "Nume si Prenume": "Zay Acatiu Gheorghe",
+          "CNP": "1650217312964",
+          "address": "Zalau, str. Avram iancu, nr. 9, ap. 8, jud. Salaj",
+          "DGRFP": "AJFP Salaj",
+          "data adeziune": "10.01.2020",
+          "address mail": "acatiu.zay.sj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "289",
+          "Nume si Prenume": "Birici Ana-Maria",
+          "CNP": "2670417060010",
+          "address": "Bistrita, str. General Grigore Balan nr. 42, ap. 63, jud. B-N",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "11.02.2020"
+      },
+      {
+          "Nr. crt. ": "290",
+          "Nume si Prenume": "Ramba Daniela Mihaela",
+          "CNP": "2640301084751",
+          "address": "Victoria, str. Pietii nr. 5, ap. 8, jud. Brasov",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "11.02.2020"
+      },
+      {
+          "Nr. crt. ": "291",
+          "Nume si Prenume": "Pastina Marcela",
+          "CNP": "26511024084757",
+          "address": "Victoria, str. Negoiu, nr. 5 ap.8, jud. Brasov",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "11.02.2020"
+      },
+      {
+          "Nr. crt. ": "292",
+          "Nume si Prenume": "Sandor Erika",
+          "CNP": "2690417192463",
+          "address": "Odorheiul Secuiesc, str. Kuvar, nr. 6, ap. 8, jud. Harghita",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "07.02.2020",
+          "address mail": "erika.sandor.hr@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "293",
+          "Nume si Prenume": "Baroti Attila",
+          "CNP": "1700428190696",
+          "address": "Ciunani, str. Volgy nr. 361E, jud. Harghita",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "07.02.2020",
+          "address mail": "attila.baroti.hr@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "294",
+          "Nume si Prenume": "Kedves Ecaterina",
+          "CNP": "2640806190131",
+          "address": "Sandominic, str. Principala, nr. 521, jud. Harghita",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "06.02.2020",
+          "address mail": "kedves.ecaterina.hr@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "295",
+          "Nume si Prenume": " ",
+          "CNP": "1860418190450",
+          "address": "Nicolesti, nr. 100, jud. Harghita",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "06.02.2020",
+          "address mail": "szabolcs.hr@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "296",
+          "Nume si Prenume": "Andrasi Zsolt",
+          "CNP": "1820816190449",
+          "address": "Fitod, nr. 181, jud. Harghita",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "06.02.2020",
+          "address mail": "andrasi.zsolt.hr@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "297",
+          "Nume si Prenume": "Voda Teofana",
+          "CNP": "2701222193797",
+          "address": "Toplita, str. Izvoarelor, bl. A, ap. 19, jud. Harghita",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "07.02.2020",
+          "address mail": "voda.teofana.hr@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "298",
+          "Nume si Prenume": "Petre Valentin Ion",
+          "CNP": "1771204293216",
+          "address": "Pleasa, nr. 832, Ploiesti, Prahova",
+          "DGRFP": "DGCVPF/ANAF",
+          "data adeziune": "10.02.2020",
+          "address mail": "de verificat"
+      },
+      {
+          "Nr. crt. ": "299",
+          "Nume si Prenume": "Istratescu Monica",
+          "CNP": "2710703084751",
+          "address": "Victoria, str. Negoiu, nr. 7 ap.6, jud. Brasov",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "07.02.2020",
+          "address mail": "monica.istratescu.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "300",
+          "Nume si Prenume": "Cristian Monica Eugenia",
+          "CNP": "2670226084785",
+          "address": "Victoria, str. Oltului, nr. 25, ap. 10, jud. Brasov",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "07.02.2020",
+          "address mail": "monica.cristian.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "301",
+          "Nume si Prenume": "Costea Neonila-Viorica",
+          "CNP": "2680607084751",
+          "address": "Victoria, str. Albota, bl. 9, ap. 38, jud. Brasov",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "07.02.2020",
+          "address mail": "viorica.costea.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "302",
+          "Nume si Prenume": "Valean Dragos Sebastian",
+          "CNP": "1700117241638",
+          "address": "Sigetu Marmatiei, P-ta 1 Decembrie 1918, jud. Maramures",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "10.02.2020",
+          "address mail": "valean.sebastian.mm@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "303",
+          "Nume si Prenume": "Ghiduch Lidia",
+          "CNP": "2590323272652",
+          "address": "Roman, Mihai Eminescu, bl. 11, ap. 10, Neamt",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "10.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "304",
+          "Nume si Prenume": "Turcitu Camelia",
+          "CNP": "2690809163281",
+          "address": "Craiova, str. Popa Sapca, bl. 10, ap. 6, jud. Dolj",
+          "DGRFP": "DGRFP Craiova",
+          "data adeziune": "07.02.2020",
+          "address mail": "camelia.turcitu.dj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "305",
+          "Nume si Prenume": "Constantin Maria",
+          "CNP": "2600908060772",
+          "address": "Bistrita, str. C.R. Vivu, nr 12, ap. 25, jud. Bistrita-Nasaud",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "10.02.2020",
+          "address mail": "maria.constantin.bn@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "306",
+          "Nume si Prenume": "Avram Cristina Olga",
+          "CNP": "2730811064343",
+          "address": "Sangeaoz Bai, str. Izvoarelor, bl. T1, ap. 18, B-N",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "10.02.2020",
+          "address mail": "cristina.avram.bn@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "307",
+          "Nume si Prenume": "Harapascu Ioan",
+          "CNP": "1821220060581",
+          "address": "Ilva Mica, str. Plai, nr. 457, jud. Bistrita-Nasaud",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "10.02.2020",
+          "address mail": "ioan.harapascu.bn@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "308",
+          "Nume si Prenume": "Romanessi Laura Diana",
+          "CNP": "2760406060774",
+          "address": "Bistrita, aleea Clopoteilor, nr. 1, ap. 66, jud Bistrita-Nasaud",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "10.02.2020",
+          "address mail": "diana.romanessi.bn@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "309",
+          "Nume si Prenume": "Nicolae Bogdan",
+          "CNP": "1851011170084",
+          "address": "Galati, Bd. Marea Unire, nr. 11 A, jud. Galati",
+          "DGRFP": "DGESCS/ANAF",
+          "data adeziune": "10.02.2020",
+          "address mail": "bogdan.nicolae.gl@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "310",
+          "Nume si Prenume": "Marcu Diana Gabriela",
+          "CNP": "2720615120718",
+          "address": "Floresti, str. Izvorului, nr. 12, jud. Cluj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "10.02.2020",
+          "address mail": "diana.marcu.cj@anaf.ro "
+      },
+      {
+          "Nr. crt. ": "311",
+          "Nume si Prenume": "Tianu Mirela",
+          "CNP": "2641218120659",
+          "address": "Cluj-Napoca, str. Padin, nr. 2, ap. 19",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "10.02.2020",
+          "address mail": "mirela.tianu.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "312",
+          "Nume si Prenume": "Chendrean Gabriela",
+          "CNP": "2650505060770",
+          "address": "Dej, str. G. Cosbuc, nr. 19, jud. Cluj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "10.02.2020",
+          "address mail": "gabriela.chendrean.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "313",
+          "Nume si Prenume": "Trombitas Tunde",
+          "CNP": "2700514123139",
+          "address": "Dej, str. Traian, nr. 6, jud. Cluj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "10.02.2020",
+          "address mail": "duplicat nr 274"
+      },
+      {
+          "Nr. crt. ": "314",
+          "Nume si Prenume": "Sofronie Ancuta Irina",
+          "CNP": "2761203212979",
+          "address": "Slobozia, str. Viilor, bl. S6, ap. 5, jud. Ialomita",
+          "DGRFP": "DGRFP Ploiesti",
+          "data adeziune": "07.02.2020",
+          "address mail": "ancuta.sofronie.il@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "315",
+          "Nume si Prenume": "Serban Ioana Madalina",
+          "CNP": "2700422080040",
+          "address": "Brasov, str. carierei, nr. 3, ap. 6",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "06.02.2020",
+          "address mail": "ioana.serban.bv@anaf,ro"
+      },
+      {
+          "Nr. crt. ": "316",
+          "Nume si Prenume": "Neamtu Adelina-Costinela",
+          "CNP": "2771030284403",
+          "address": "Bucuresti, Calea Calarasi, nr. 323, ap. 12",
+          "DGRFP": "DGRFP Bucuresti",
+          "data adeziune": "07.02.2020",
+          "address mail": "adelina.neamtu.b@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "317",
+          "Nume si Prenume": "Caloean Virginia Aurelia",
+          "CNP": "2761020212982",
+          "address": "Slobozia, str. Matei Basarab, nr. 10, ap. 6, jud. Ialomita",
+          "DGRFP": "DGRFP Ploiesti",
+          "data adeziune": "07.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "318",
+          "Nume si Prenume": "Grigore Lenuta",
+          "CNP": "2671213100049",
+          "address": "Slobozia, str. Matei Basarab, nr. 51, ap. 8, jud. Ialomita",
+          "DGRFP": "DGRFP Ploiesti",
+          "data adeziune": "07.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "319",
+          "Nume si Prenume": "Biega Antoneta-Corina",
+          "CNP": "2670503211671",
+          "address": "Slobozia, aleea Pietii, nr. 2, ap 26, jud. Ialomita",
+          "DGRFP": "DGRFP Ploiesti",
+          "data adeziune": "07.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "320",
+          "Nume si Prenume": "Pahontu Valentina",
+          "CNP": "2730411212954",
+          "address": "Slobozia, str. Matei Basarab, Bl. 31, ap. 12, jud. Ialomita",
+          "DGRFP": "DGRFP Ploiesti",
+          "data adeziune": "07.02.2020",
+          "address mail": "valentina.pahontu.il@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "321",
+          "Nume si Prenume": "Bazarea Sandica",
+          "CNP": "2780924212965",
+          "address": "Slobozia, str Domnita Balasa, bl. U10, ap.2, jud. Ialomita",
+          "DGRFP": "DGRFP Ploiesti",
+          "data adeziune": "07.02.2020",
+          "address mail": "sandica.bazarea.il@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "322",
+          "Nume si Prenume": "Marinescu Alice-Minerva",
+          "CNP": "2770603212954",
+          "address": "Slobozia, str. Cuza Voda, bl IX, ap. 3, jud. Ialomita",
+          "DGRFP": "DGRFP Ploiesti",
+          "data adeziune": "07.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "323",
+          "Nume si Prenume": "Joga Maria",
+          "CNP": "2650728212984",
+          "address": "Slobozia, str. Gheorghe Doja, nr. 40, jud. Ialomita",
+          "DGRFP": "DGRFP Ploiesti",
+          "data adeziune": "07.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "324",
+          "Nume si Prenume": "Scutelnicu carmen Elena",
+          "CNP": "2740610080023",
+          "address": "Slobozia, str. Garii, nr. 7, ap. 57, jud. Ialomita",
+          "DGRFP": "DGRFP Ploiesti",
+          "data adeziune": "07.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "325",
+          "Nume si Prenume": "Ionescu Aneta",
+          "CNP": "2660720212956",
+          "address": "Tandarei, str. Bucuresti, bl.52H , ap. 1, jud. Ialomita",
+          "DGRFP": "DGRFP Ploiesti",
+          "data adeziune": "07.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "326",
+          "Nume si Prenume": "Grigore Elena",
+          "CNP": "2681221212966",
+          "address": "Cazanesti, str. Gavrilescu, nr. 22, jud. Ialomita",
+          "DGRFP": "DGRFP Ploiesti",
+          "data adeziune": "07.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "327",
+          "Nume si Prenume": "Zeca Victoria",
+          "CNP": "2680202212967",
+          "address": "Slobozia, str. Panselutelor, nr. 2, ap. 12, jud. Ialomita",
+          "DGRFP": "DGRFP Ploiesti",
+          "data adeziune": "07.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "328",
+          "Nume si Prenume": "Ciobanu Dorel Constantin",
+          "CNP": "1550511100050",
+          "address": "Bucuresti, str. Pastorului, nr. 40",
+          "DGRFP": "DGRFP Bucuresti",
+          "data adeziune": "07.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "329",
+          "Nume si Prenume": "Anton Cornel",
+          "CNP": "1630615400241",
+          "address": "Suceava, str. prof Leca Morariu, nr. 14, ap. 19, jud. Suceava",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "07.02.2020",
+          "address mail": "cornel.anton.sv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "330",
+          "Nume si Prenume": "Buibas Ana Maria Corina",
+          "CNP": "2760915451540",
+          "address": "Bucuresti, bd. Basarabia, nr. 104, ap. 7",
+          "DGRFP": "DGRFP Bucuresti",
+          "data adeziune": "07.02.2020",
+          "address mail": "ana.buibas.b@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "331",
+          "Nume si Prenume": "Carje Monica",
+          "CNP": "2671226084756",
+          "address": "Vistea de Jos, str. principala, nr. 196, jud. Brasov",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "07.02.2020",
+          "address mail": "monica.carje.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "332",
+          "Nume si Prenume": "Bogdan Elena",
+          "CNP": "2600720082414",
+          "address": "Fagaras, str. Campului, bl. 20, ap. 5, jud. Brasov",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "07.02.2020",
+          "address mail": "elena.bogdan.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "333",
+          "Nume si Prenume": "Gherghel Daniela Steluta",
+          "CNP": "2710807082410",
+          "address": "Brasov, str. Calea Bucuresti, nr. 76, ap. 23, jud. Brasov",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "07.02.2020",
+          "address mail": "daniela.gherghel.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "334",
+          "Nume si Prenume": "Filipoiu Sorina Cristina",
+          "CNP": "2691224084757",
+          "address": "Victoria, str. Garii, nr. 27, jud. Brasov",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "07.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "335",
+          "Nume si Prenume": "Pop Cornelia",
+          "CNP": "2650608082439",
+          "address": "Voila, str. Principala, nr. 88, jud. Brasov",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "07.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "336",
+          "Nume si Prenume": "Cucu Mihaela",
+          "CNP": "2690804126217",
+          "address": "Turda, str. Romana, nr. 45, jud. Cluj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "07.02.2020",
+          "address mail": "mihaela.cucu.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "337",
+          "Nume si Prenume": "Deac Maria",
+          "CNP": "2711022120011",
+          "address": "Campia Turzii, str. 1Decembrie 1918, jud. Cluj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "07.02.2020",
+          "address mail": "maria.deac.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "338",
+          "Nume si Prenume": "Iures Ciprian-Mihai",
+          "CNP": "1770623120696",
+          "address": "Cluj-Napoca, str. Mehedinti, nr. 5, ap. 38",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "07.02.2020",
+          "address mail": "ciprian.iures.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "339",
+          "Nume si Prenume": "Burlacu Cosmin",
+          "CNP": "1821105045364",
+          "address": "Focsani, str. Cincinat Pavelescu, nr. 5, ap. 10, jud. Vrancea",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "07.02.2020",
+          "address mail": "cosmin.burlacu.vn@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "340",
+          "Nume si Prenume": "Radulescu Angelica",
+          "CNP": "2600923380014",
+          "address": "Craiova, str. Dezrobirii, nr. 15, ap. 5, jud. Dolj",
+          "DGRFP": "DGESCS/ANAF",
+          "data adeziune": "07.02.2020",
+          "address mail": "angelica.radulescu.dj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "341",
+          "Nume si Prenume": "Dinga Maria Cristina",
+          "CNP": "2711027272650",
+          "address": "Roman, str. Bogdan Dragos, nr. 65bis, jud. Neamt",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "06.02.2020",
+          "address mail": "cristina.dinga.nt@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "342",
+          "Nume si Prenume": "Pangratiu Steliana",
+          "CNP": "2770425120696",
+          "address": "Cluj-Napoca, Campului, nr. 227, ap. 8",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "06.02.2020",
+          "address mail": "setliana.pangratiu.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "343",
+          "Nume si Prenume": "Sucala Simona",
+          "CNP": "2780725126215",
+          "address": "Gilau, Republicii, nr. 916, jud. Cluj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "06.02.2020",
+          "address mail": "simona.sucala.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "344",
+          "Nume si Prenume": "Cotarcea Mirela Tatiana",
+          "CNP": "2730423250547",
+          "address": "Dr. Tr. Severin, str. I. C. Bratianu, nr. 12, ap. 10, jud. Mehedinti",
+          "DGRFP": "DGRFP Craiova",
+          "data adeziune": "06.02.2020",
+          "address mail": "mirela.cotarcea.mh@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "345",
+          "Nume si Prenume": "Damatar Ovidiu-Florin",
+          "CNP": "1740403272647",
+          "address": "Roman, str. Walter Maracineanu, nr. 27, jud. Neamt",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "06.02.2020",
+          "address mail": "ovidiu.damatar.nt@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "346",
+          "Nume si Prenume": "Todireanu Nelu",
+          "CNP": "1680403272643",
+          "address": "Roman, str. Pacii, bl. 1, ap. 1, jud. Neamt",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "06.02.2020",
+          "address mail": "nelu.todireanu.nt@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "347",
+          "Nume si Prenume": "Sechelaru Constantin",
+          "CNP": "1711229270594",
+          "address": "Piatra Neamt, str. Mihai Viteazu, nr. 50, ap. 20, jud. Neamt",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "06.02.2020",
+          "address mail": "constantin.sechelaru.nt@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "348",
+          "Nume si Prenume": "Nacu Dan",
+          "CNP": "1710426270613",
+          "address": "Piatra Neamt, str. Traian, nr. 80, bl. H3, ap. 42, Neamt",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "06.02.2020",
+          "address mail": "dan.nacu.nt@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "349",
+          "Nume si Prenume": "Lichiuta Catalina Maria",
+          "CNP": "2780924170321",
+          "address": "Piatra Neamt, str. Dimitrie leonida, nr. 83, ap. 15, jud. Neamt",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "06.02.2020",
+          "address mail": "catalina.lichiuta.nt@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "350",
+          "Nume si Prenume": "Versanu Viorica",
+          "CNP": "2600118190134",
+          "address": "Piatra Neamt, str. Darmanesti, nr. 48, ap. 5, jud. Neamt",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "06.02.2020",
+          "address mail": "viorica.versanu.nt@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "351",
+          "Nume si Prenume": "Calota Nina",
+          "CNP": "2601227212967",
+          "address": "Stefanestii de Jos, str. Primaverii nr. 1, ap. 34, jud. Ilfov",
+          "DGRFP": "DGRFP Bucuresti",
+          "data adeziune": "06.02.2020",
+          "address mail": "nina.calota.if@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "352",
+          "Nume si Prenume": "Paraschivescu Elena",
+          "CNP": "2660528270581",
+          "address": "Piatra Neamt, str. prof. Ion Negre, nr. 4, ap. 31, jud. Neamt",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "06.02.2020",
+          "address mail": "elena.paraschivescu.nt@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "353",
+          "Nume si Prenume": "Dumitru Liliana",
+          "CNP": "2860104440014",
+          "address": "Bucuresti, str. Izvorul Muresului, bl. A11, ap. 23",
+          "DGRFP": "DGRFP Bucuresti",
+          "data adeziune": "06.02.2020",
+          "address mail": "liliana.dumitru.s3@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "354",
+          "Nume si Prenume": "Tamas Maria",
+          "CNP": "2610930272660",
+          "address": "Roman, str. Sucedava, nr. 170, jud. Neamt",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "06.02.2020",
+          "address mail": "maria.tamas.nt@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "355",
+          "Nume si Prenume": "Ignea Elena",
+          "CNP": "2630228272625",
+          "address": "Lutca, str. Nordului, nr 64, jud. Neamt",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "06.02.2020",
+          "address mail": "elena.ignea.nt@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "356",
+          "Nume si Prenume": "Ghindea Florentina",
+          "CNP": "2750806105009",
+          "address": "Roman, str. maramures, nr. 57, jud. Neamt",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "06.02.2020",
+          "address mail": "florentina.ghindea.nt@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "357",
+          "Nume si Prenume": "Petrov Vasilica",
+          "CNP": "2650418364245",
+          "address": "Tulcea, str. Vacarescu, nr. 13",
+          "DGRFP": "DGRFP Bucuresti",
+          "data adeziune": "11.02.2020",
+          "address mail": "vasilica.petrov.s4@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "358",
+          "Nume si Prenume": "Cadiu Monica mariana",
+          "CNP": "2600325090038",
+          "address": "Brasov, str. alexandru Ciurcu, nr. 113A",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "11.02.2020",
+          "address mail": "monica.cadiu.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "359",
+          "Nume si Prenume": "Dinca Ana Dorina",
+          "CNP": "2700830181156",
+          "address": "Craiova, str. Gheorghe Doja, nr. 8, ap. 5, jud. Dolj",
+          "DGRFP": "DGRFP Craiova",
+          "data adeziune": "11.02.2020",
+          "address mail": "dorina.dinca.dj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "360",
+          "Nume si Prenume": "Niculae Dan Adrian",
+          "CNP": "1720124163231",
+          "address": "Craiova, str. Parului, nr. 29D, jud. Dolj",
+          "DGRFP": "DGRFP Craiova",
+          "data adeziune": "11.02.2020",
+          "address mail": "dan.niculae.dj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "361",
+          "Nume si Prenume": "Amzoi Dumitru",
+          "CNP": "1550410250529",
+          "address": "Dr. Tr. Severin, str. Tudor Vladimirescu, nr. 134, ap. 2, jud. Mehedinti",
+          "DGRFP": "DGRFP Craiova",
+          "data adeziune": "11.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "362",
+          "Nume si Prenume": "Kislingher Constantin",
+          "CNP": "1570809250019",
+          "address": "Dr. Tr. Severin, str. Gheorghe Anghel, nr. 72, ap. 6, jud. Mehedinti",
+          "DGRFP": "DGRFP Craiova",
+          "data adeziune": "11.02.2020",
+          "address mail": "constantin.kislingher.mh@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "363",
+          "Nume si Prenume": "Calugar Florentina-Alina",
+          "CNP": "2761010160029",
+          "address": "Bucuresti, str. Mohorului, nr. 7, ap. 10",
+          "DGRFP": "DGRFP Bucuresti",
+          "data adeziune": "07.02.2020",
+          "address mail": "nu am gasit "
+      },
+      {
+          "Nr. crt. ": "364",
+          "Nume si Prenume": "Rad Elena Violeta",
+          "CNP": "2761116472015",
+          "address": "Cluj-Napoca, str. Fabricii, nr. 3, ap. 71",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "11.02.2020",
+          "address mail": "elena.rad.cj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "365",
+          "Nume si Prenume": "Muntean Ioan Florin",
+          "CNP": "1750906082439",
+          "address": "Bucuresti, str. Tarnava Mica, nr. 2, ap. 17",
+          "DGRFP": "DGRFP Bucuresti",
+          "data adeziune": "12.02.2020",
+          "address mail": "de verificat"
+      },
+      {
+          "Nr. crt. ": "366",
+          "Nume si Prenume": "Petrehele Florin",
+          "CNP": "1670614022813",
+          "address": "Ineu, str. Dunarii, nr. 3A, ap. 14, jud. Arad",
+          "DGRFP": "DGRFP Timisoara",
+          "data adeziune": "12.02.2020",
+          "address mail": "florin.petrehele.ar@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "367",
+          "Nume si Prenume": "Crisan Marcela Felicia",
+          "CNP": "2590804050014",
+          "address": "Alesd, str. Mioritei, nr. 6, jud. Bihor",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "12.02.2020",
+          "address mail": "marcela.crisan.bh@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "368",
+          "Nume si Prenume": "Danila Daniela",
+          "CNP": "2650322080025",
+          "address": "Brasov, str.  Tebea, nr. 19, ap. 9",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "11.02.2020",
+          "address mail": "daniela.danila.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "369",
+          "Nume si Prenume": "Forsea Carmen",
+          "CNP": "2840222430060",
+          "address": "Brasov, str. Tampei, nr. 8, ap. 4",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "12.02.2020",
+          "address mail": "carmen.forsea.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "370",
+          "Nume si Prenume": "Leah Georgeta-Eugenia",
+          "CNP": "2630327081964",
+          "address": "Codlea, str. Constitutiei, nr. 67, jud. Brasov",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "12.02.2020",
+          "address mail": "georgeta.leah.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "371",
+          "Nume si Prenume": "Lucaci Teodora",
+          "CNP": "2711001085024",
+          "address": "Vulcan, nr. 326, jud. Brasov",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "12.02.2020",
+          "address mail": "teodora.lucaci.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "372",
+          "Nume si Prenume": "Muncelean Lavinia",
+          "CNP": "2841120190433",
+          "address": "Miercurea Ciuc, str. Avantului, nr. 4, ap. 19, jud. Harghita",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "12.02.2020",
+          "address mail": "lavinia.muncelean.hr@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "373",
+          "Nume si Prenume": "Nastasa-Baras Ligia",
+          "CNP": "2730705173177",
+          "address": "Tecuci, str. Transilvaniei, nr. 22B, jud. Galati",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "12.02.2020",
+          "address mail": "ligia.nastasa.gl@anaf.ro (de vertificat nu apare judetul in aplicaite)"
+      },
+      {
+          "Nr. crt. ": "374",
+          "Nume si Prenume": "Bogdan Gigliola-Alina",
+          "CNP": "2731022214629",
+          "address": "Bucuresti, str. Octavian Goga, nr. 22, ap. 58",
+          "DGRFP": "DGRFP Bucuresti",
+          "data adeziune": "13.02.2020",
+          "address mail": "gigliola.bogdan.b@anaf.ro (de verificat nu apare sectorul / judetul in aplicatie)"
+      },
+      {
+          "Nr. crt. ": "375",
+          "Nume si Prenume": "Ciobanu Mirela Cecilia",
+          "CNP": "2810701410058",
+          "address": "Bucuresti, Soseaua Mihai Bravu",
+          "DGRFP": "DGRFP Bucuresti",
+          "data adeziune": "12.02.2020",
+          "address mail": "mirela.ciobanu.b@anaf.ro (de verificat)"
+      },
+      {
+          "Nr. crt. ": "376",
+          "Nume si Prenume": "Dumitrescu Elena Cristina",
+          "CNP": "2650619293111",
+          "address": "Ploiesti, str. Intrarea Grindului, nr. 2, ap. 18",
+          "DGRFP": "DGCVPF/ANAF",
+          "data adeziune": "13.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "377",
+          "Nume si Prenume": "Buricea Aura Mihaela",
+          "CNP": "2741231163248",
+          "address": "Craiova, aleea C-tin Brancusi, nr. 11, ap. 2, jud. Dolj",
+          "DGRFP": "DGRFP Craiova",
+          "data adeziune": "13.02.2020",
+          "address mail": "aura.buricea.dj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "378",
+          "Nume si Prenume": "Sotropa Gratiela-Georgeta",
+          "CNP": "2730406333224",
+          "address": "Radauti, str. Caramidariei, nr. 13, jud. Suceava",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "13.02.2020",
+          "address mail": "gratiela.sotrop.sv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "379",
+          "Nume si Prenume": "Bandoiu Violeta",
+          "CNP": "2690813040067",
+          "address": "Bacau, str. Bucegi, nr. 139, ap. 40, jud. Bacau",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "13.02.2020",
+          "address mail": "violeta.bandoiu.bc@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "380",
+          "Nume si Prenume": "Ilie Catalin Corneliu",
+          "CNP": "1671028081968",
+          "address": "Brasov, str. Poienelor, nr. 8, ap. 30",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "14.02.2020",
+          "address mail": "catalin.ilie.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "381",
+          "Nume si Prenume": "Serban Simona-Victoria",
+          "CNP": "2700306083472",
+          "address": "Brasov, str. Mircea cel Batran, nr. 41, ap. 12",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "14.02.2020",
+          "address mail": "simona.serban.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "382",
+          "Nume si Prenume": "Cojocaru Nicoleta",
+          "CNP": "2671219085021",
+          "address": "Cristian, str. Invatator Pavel Gheorghe, nr. 11, jud. Brasov",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "14.02.2020",
+          "address mail": "nicoleta.cojocaru.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "383",
+          "Nume si Prenume": "Florea Ioan Cosmin",
+          "CNP": "1790124082411",
+          "address": "Fagaras, str. Castanului, bl. 49B, ap. 12",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "11.02.2020",
+          "address mail": "ioan.florea.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "384",
+          "Nume si Prenume": "Scarlat Victoria-Iuliana",
+          "CNP": "2710807080070",
+          "address": "Brasov, str. Salviei nr. 7, ap. 4",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "11.02.2020",
+          "address mail": "victoria.scarlat.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "385",
+          "Nume si Prenume": "Parjol Alexandra Nicoleta",
+          "CNP": "2791205430012",
+          "address": "Bucuresti, str. Nicolae Filimon, nr. 28, ap. 27",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "14.02.2020",
+          "address mail": "alexandra.parjol.is@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "386",
+          "Nume si Prenume": "Morosan Nicolai-Florin",
+          "CNP": "1690329333212",
+          "address": "Suceava, str. Narciselor, nr. 5, ap. 60",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "14.02.2020",
+          "address mail": "florin.morosan.is@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "387",
+          "Nume si Prenume": "Rotariu Doru",
+          "CNP": "1780601333117",
+          "address": "Suceava, str. prof Leca Morariu, nr. 7, ap. 1, jud. Suceava",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "14.02.2020",
+          "address mail": "doru.rotariu.is@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "388",
+          "Nume si Prenume": "Anchidim Petru-Dan",
+          "CNP": "1680514335031",
+          "address": "Suceava, str. Statiunii, nr. 19, ap. 10",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "14.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "389",
+          "Nume si Prenume": "Bajcsi Szilard",
+          "CNP": "1800401142614",
+          "address": "Sf. Gheorghe, str. Godri Ferenc, nr. 6, ap. 9, jud. Covasna",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "14.02.2020",
+          "address mail": "szilar.bajcsi.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "390",
+          "Nume si Prenume": "Evulet Mihai Adrian",
+          "CNP": "1830622330538",
+          "address": "Suceava, str. Alexandru cel Batran, nr. 18, ap.24",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "14.02.2020",
+          "address mail": "mihai.evulet.is@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "391",
+          "Nume si Prenume": "Lazar Mihai",
+          "CNP": "1590502334995",
+          "address": "Suceava, str. Baladei, nr. 5, ap. 11",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "14.02.2020",
+          "address mail": " nu am gasit"
+      },
+      {
+          "Nr. crt. ": "392",
+          "Nume si Prenume": "Andrisoaie Alexandru Stefan",
+          "CNP": "1811128336881",
+          "address": "Satu-Mare, str. Principala, nr. 37, Suceava",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "14.02.2020",
+          "address mail": "alexandru.andrisoaie.is@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "393",
+          "Nume si Prenume": "Mitulschi Vasile",
+          "CNP": "1700618335035",
+          "address": "Suceava, str. Zamcei, nr. 1A",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "14.02.2020",
+          "address mail": "vasile.mitulschi.is@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "394",
+          "Nume si Prenume": "Leica Ovidiu Claudiu",
+          "CNP": "1741208372251",
+          "address": "Gura Humorului, str. Boureni, nr. 10, jud. Suceava",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "14.02.2020",
+          "address mail": "ovidiu.leica.is@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "395",
+          "Nume si Prenume": "Frangulea Viorica",
+          "CNP": "2751118212976",
+          "address": "Slobozia, str Plevnei, nr. 89, jud. Ialomita",
+          "DGRFP": "DGRFP Ploiesti",
+          "data adeziune": "14.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "396",
+          "Nume si Prenume": "Modrea Iermina",
+          "CNP": "2720617213003",
+          "address": "Slobozia, str. Viilor, nr. 3, ap. 3, jud. Ialomita",
+          "DGRFP": "DGRFP Ploiesti",
+          "data adeziune": "10.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "397",
+          "Nume si Prenume": "Lintis Mandita",
+          "CNP": "2680329216191",
+          "address": "Tandarei, str. Romanitei, nr. 9, jud. Ialomita",
+          "DGRFP": "DGRFP Ploiesti",
+          "data adeziune": "14.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "398",
+          "Nume si Prenume": "Cricu Steriana",
+          "CNP": "2750930212991",
+          "address": "Slobozia, Bd. Unirii, bl. U7, ap. 7, jud. Ialomita",
+          "DGRFP": "DGRFP Ploiesti",
+          "data adeziune": "14.02.2020",
+          "address mail": "steriana.cricu.il@anaf.ro (de verificat)"
+      },
+      {
+          "Nr. crt. ": "399",
+          "Nume si Prenume": "Andrei Georgeta",
+          "CNP": "2670918212958",
+          "address": "Cazanesti, str. Bucuresti, nr. 22,jud. Ialomita",
+          "DGRFP": "DGRFP Ploiesti",
+          "data adeziune": "14.02.2020",
+          "address mail": "georgeta.andrei.il@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "400",
+          "Nume si Prenume": "Vasile Maria-Nicoleta",
+          "CNP": "2650401212983",
+          "address": "Ciochina, str. Scurta, nr. 3, jud. Ialomita",
+          "DGRFP": "DGRFP Ploiesti",
+          "data adeziune": "14.02.2020",
+          "address mail": "nu am gasit numa DJ DB si S2"
+      },
+      {
+          "Nr. crt. ": "401",
+          "Nume si Prenume": "Vintila Mariana",
+          "CNP": "2631103216201",
+          "address": "Tandarei, str. Digului, nr. 182 bl. 1C, ap. 11, jud. Ialomita",
+          "DGRFP": "DGRFP Ploiesti",
+          "data adeziune": "14.02.2020",
+          "address mail": "mariana.vintila.ct@anaf.ro (de verificat)"
+      },
+      {
+          "Nr. crt. ": "402",
+          "Nume si Prenume": "Bocan Elena",
+          "CNP": "2700116212952",
+          "address": "Bucuresti, str. Turda, nr. 114, ap. 21",
+          "DGRFP": "ATCPMB",
+          "data adeziune": "14.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "403",
+          "Nume si Prenume": "Constantin Iuliana Mihaela",
+          "CNP": "2680115364216",
+          "address": "Tulcea, str. Isaccei, nr. 41, ap. 6, jud. Tulcea",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "14.02.2020",
+          "address mail": "iuliana.constantin.tl@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "404",
+          "Nume si Prenume": "Pelivan Georgiana",
+          "CNP": "2720922364211",
+          "address": "Tulcea, str. Razboieni, nr. 5, ap. 19",
+          "DGRFP": "DGRFP Galati",
+          "address mail": "georgiana.pelivan.tl@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "405",
+          "Nume si Prenume": "Stefanescu Laura Antonina",
+          "CNP": "2821103360917",
+          "address": "Sulina, str. I, nr. 119, ap. 20, jud. Tulcea",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "17.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "406",
+          "Nume si Prenume": "Damian Lenuta",
+          "CNP": "2610708363860",
+          "address": "Sulina, str. a III-a , nr. 150, ap. 15, jud. Tulcea",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "17.02.2020",
+          "address mail": "lenuta.damian.tl@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "407",
+          "Nume si Prenume": "Covaliov Mocenco Angela",
+          "CNP": "2741220363855",
+          "address": "Sulina, str. I, nr. 119, ap. 27, jud. Tulcea",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "17.02.2020",
+          "address mail": "angela.covaliov.tl@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "408",
+          "Nume si Prenume": "Calciu Ionela",
+          "CNP": "2690107361931",
+          "address": "Tulcea, str. Plevnei, nr. 47, ap. 8, jud. Tulcea",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "17.02.2020",
+          "address mail": "ionela.calciu.tl@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "409",
+          "Nume si Prenume": "Vasile Calusa",
+          "CNP": "2710104364225",
+          "address": "Tulcea, str. Rasaritului, nr. 14, jud. Tulcea",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "17.02.2020",
+          "address mail": "calusa.vasile.tl@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "410",
+          "Nume si Prenume": "Udrea Anamaria",
+          "CNP": "2741101364214",
+          "address": "Tulcea, str. Isaccei, nr. 57, ap. 9, jud. Tulcea",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "17.02.2020",
+          "address mail": "am gasit Ana-Maria Udrea in aplicatie, nu stiu cum sa ii scriu email-ul"
+      },
+      {
+          "Nr. crt. ": "411",
+          "Nume si Prenume": "Stanciu Lenuta",
+          "CNP": "2670617040099",
+          "address": "Tulcea, str. Metalurgilor, nr. 2, ap. 18",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "17.02.2020",
+          "address mail": "lenuta.stanciu.tl@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "412",
+          "Nume si Prenume": "Stanciu Corina",
+          "CNP": "2730430364236",
+          "address": "Tulcea, Aleea Orhideelor, nr. 22, jud Tulcea",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "17.02.2020",
+          "address mail": "corina.stanciu.tl@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "413",
+          "Nume si Prenume": "Pufleni Catalina",
+          "CNP": "2811119360320",
+          "address": "Tulcea, str. Marasesti, nr. 9, ap. 10, jud.Tulcea",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "17.02.2020",
+          "address mail": "catalina.pufleni.tl@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "414",
+          "Nume si Prenume": "Casian Adina Daniela",
+          "CNP": "2650915364237",
+          "address": "Tulcea, str. Unirii, nr. 1, ap. 38",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "17.02.2020",
+          "address mail": "adina.casian.tl@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "415",
+          "Nume si Prenume": "Turnea Mariana",
+          "CNP": "2670409163213",
+          "address": "Piatra-Neamt, str. Progresului, nr. 4, ap. 50",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "17.02.2020",
+          "address mail": "mariana.turnea.nt@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "416",
+          "Nume si Prenume": "Zibileanu Ecaterina",
+          "CNP": "2610907364234",
+          "address": "Tulcea, str. 1848, nr. 5, ap.17",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "17.02.2020",
+          "address mail": "ecaterina.zibileanu.tl@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "417",
+          "Nume si Prenume": "Popa Laura Marilena",
+          "CNP": "2720815364251",
+          "address": "Tulcea, str. Isaccei, nr. 45, ap. 8, jud. Tulcea",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "17.02.2020",
+          "address mail": "laura.popa.tl@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "418",
+          "Nume si Prenume": "Iordan Valentina Liliana",
+          "CNP": "2800605363433",
+          "address": "Tulcea, str. Babadag, nr. 163bis, ap. 2, jud. Tulcea",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "17.02.2020",
+          "address mail": "liliana.iordan.tl@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "419",
+          "Nume si Prenume": "Furtunov Liuba",
+          "CNP": "2691004364231",
+          "address": "Tulcea, str. Gradinarilor, nr. 52, ap. 4, jud. Tulcea",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "17.02.2020",
+          "address mail": "liuba.furtunov.tl@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "420",
+          "Nume si Prenume": "Gheorghe Georgeta",
+          "CNP": "26710093642532",
+          "address": "Tulcea, str. Mihai Viteazu, nr. 41, jud. Tulcea",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "17.02.2020",
+          "address mail": "georgeta.gheorghe.tl@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "421",
+          "Nume si Prenume": "Tudorache Elena",
+          "CNP": "2670701364264",
+          "address": "Tulcea, str. Varariei, nr. 3, ap. 11, jud. Tulcea",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "17.02.2020",
+          "address mail": "elena.tudorache.tl@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "422",
+          "Nume si Prenume": "Iorgoveanu Georgiana",
+          "CNP": "2810410366175",
+          "address": "Tulcea, str. Babadag, nr. 15, ap. 3, jud. Tulcea",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "17.02.2020",
+          "address mail": "georgiana.iorgoveanu.tl@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "423",
+          "Nume si Prenume": "Dochia Iordana",
+          "CNP": "2690825364241",
+          "address": "Tulcea, Aleea Cristina, nr. 6, ap. 14, jud Tulcea",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "17.02.2020",
+          "address mail": "iordana.dochia.tl@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "424",
+          "Nume si Prenume": "Epureanu Elena",
+          "CNP": "2620114364214",
+          "address": "Tulcea, str. Pacii, nr. 103, ap. 80, jud. tulcea",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "17.02.2020",
+          "address mail": "elena.epureanu.tl@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "425",
+          "Nume si Prenume": "Furtuna Rodica",
+          "CNP": "2740511364221",
+          "address": "Tulcea, Aleea Albatros, nr. 3, ap. 12, jud Tulcea",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "17.02.2020",
+          "address mail": "rodica.furtuna.tl@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "426",
+          "Nume si Prenume": "Lazea Mariana Felicia",
+          "CNP": "2590119082427",
+          "address": "Fagaras, str. Zorelelor, nr. 6, jud. Brasov",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "14.02.2020",
+          "address mail": "mariana.lazea.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "427",
+          "Nume si Prenume": "Soare Adina-Elena",
+          "CNP": "2710913082427",
+          "address": "Fagaras, str. Teiului, bl. 29, ap. 2, jud. Brasov",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "14.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "428",
+          "Nume si Prenume": "Riglea Sevim",
+          "CNP": "2680708364245",
+          "address": "Tulcea, Aleea Labirintului, nr. 1, ap. 12, jud Tulcea",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "17.02.2020",
+          "address mail": "sevim.riglea.tl@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "429",
+          "Nume si Prenume": "Paun Rodica",
+          "CNP": "2600214080081",
+          "address": "Brasov, Aleea Lacramioarelor, nr. 7, ap. 6",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "14.02.2020",
+          "address mail": "rodica.paun.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "430",
+          "Nume si Prenume": "Vasiliu Felicia",
+          "CNP": "2760514363857",
+          "address": "Sulina, str. a 6-a, nr. 78, jud. Tulcea",
+          "DGRFP": "DGRFP Galati",
+          "data adeziune": "17.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "431",
+          "Nume si Prenume": "Dicu Ioana-Constantina",
+          "CNP": "2670221080025",
+          "address": "Brasov, str. Carpatilor, nr. 21, ap. 22",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "14.02.2020",
+          "address mail": "ioana.dicu.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "432",
+          "Nume si Prenume": "Cimpan Carmen-Georgeta",
+          "CNP": "2791214080056",
+          "address": "Brasov, str. Egalitatii, nr. 43",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "14.02.2020",
+          "address mail": "carmen.cimpan.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "433",
+          "Nume si Prenume": "Vaidos Andreea",
+          "CNP": "2770928080026",
+          "address": "Brasov, str. Alunis, nr. 1, ap. 2",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "14.02.2020",
+          "address mail": "andreea.vaidso.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "434",
+          "Nume si Prenume": "Boureanu Alin",
+          "CNP": "1800510080111",
+          "address": "Brasov, str. Romana, nr. 3",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "14.02.2020",
+          "address mail": "alin.bourceanu.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "435",
+          "Nume si Prenume": "Cristian Claudiu Virgil",
+          "CNP": "1680624080067",
+          "address": "Brasov, str. Nicopole, nr. 69",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "14.02.2020",
+          "address mail": "claudiu.cristian.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "436",
+          "Nume si Prenume": "Nyeste Magdolna",
+          "CNP": "2770525311810",
+          "address": "Crasna, nr. 1372, jud. Salaj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "14.02.2020",
+          "address mail": "magdolna.nyeste.sj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "437",
+          "Nume si Prenume": "Panaite Doinita",
+          "CNP": "2590314080101",
+          "address": "Brasov, Calea Bucuresti, nr. 1, ap. 15",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "14.02.2020",
+          "address mail": "nu am gasit"
+      },
+      {
+          "Nr. crt. ": "438",
+          "Nume si Prenume": "Chitic Luminita",
+          "CNP": "2780716080050",
+          "address": "Lunca Calnicului, str. Morii, jud. Brasov",
+          "DGRFP": "DGRFP Brasov",
+          "data adeziune": "14.02.2020",
+          "address mail": "luminita.chitic.bv@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "439",
+          "Nume si Prenume": "Babanas Ramona-Maria",
+          "CNP": "2790711310760",
+          "address": "Zalau, str. Gelu Voievod, nr. 25, ap. 16, jud. Salaj",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "18.02.2020",
+          "address mail": "ramona.babanas.sj@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "440",
+          "Nume si Prenume": "Grad Adina Letitia",
+          "CNP": "2700307244231",
+          "address": "Viseu de Sus, str. Ion Luca Caragiale, nr. 1A, jud. Maramures",
+          "DGRFP": "DGRFP Cluj-Napoca",
+          "data adeziune": "18.02.2020",
+          "address mail": "adina.grad.mm@anaf.ro (de verificat nu apare judet in aplicatie)"
+      },
+      {
+          "Nr. crt. ": "441",
+          "Nume si Prenume": "Fesiuc Adina",
+          "CNP": "2781211433022",
+          "address": "Bucuresti, Aleea barajul Dunarii, nr. 9, ap.55",
+          "DGRFP": "DGRFP Bucuresti",
+          "data adeziune": "04.03.2020",
+          "address mail": "fesiuc.adina.if@anaf,.ro"
+      },
+      {
+          "Nr. crt. ": "442",
+          "Nume si Prenume": "Ion Lucica",
+          "CNP": "2630406212956",
+          "address": "Slobozia, str. Ialomitei, bl. B29, ap. 24, jud. Ialomita",
+          "DGRFP": "DGRFP Ploiesti",
+          "data adeziune": "11.03.2020",
+          "address mail": "lucica.ion.il@anaf.ro"
+      },
+      {
+          "Nr. crt. ": "443",
+          "Nume si Prenume": "Geana Rodica",
+          "CNP": "2671010372241",
+          "address": "Husi, str. Ioan Voda cel Viteaz, nr. 58, jud. Vaslui",
+          "DGRFP": "DGRFP Iasi",
+          "data adeziune": "26.03.2020",
+          "address mail": "nu am gasit"
+      }
+  ]
+}

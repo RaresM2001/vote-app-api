@@ -3,21 +3,19 @@ const mongoose = require('mongoose');
 const memberSchema = new mongoose.Schema({
     firstName: {
         type: String,
-        required: true
+        // required: true
     },
     lastName: {
         type: String, 
-        required: true
+        // required: true
     },
     email: {
         type: String,
-        required: true,
-        unique: true
+        // required: true,
     },
     CNP: {
         type: String,
-        required: true,
-        unique: true
+        // required: true,
     },
     joinedIn: {
         type: String

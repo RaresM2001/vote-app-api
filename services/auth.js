@@ -2,16 +2,16 @@ const Admin = require('../models/admin');
 
 const createAdmin = async (data) => {
     let admin = new Admin({...data});
-    await admin.hashPassword();
+    await admin.hashPassword(); 
     return admin.save();
 }
 
-const findAdminByUsername = async (username) => {
-    let admin = await Admin.findOne({username});
+const findAdminByEmail = async (email) => {
+    let admin = await Admin.findOne({email});
     return admin;
 }
 
 module.exports = {
     createAdmin,
-    findAdminByUsername
+    findAdminByEmail
 }
