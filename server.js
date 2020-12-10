@@ -2,6 +2,7 @@ const express = require('express');
 const bodyParser = require('express');
 const cors = require('cors');
 const cookieParser = require('cookie-parser');
+const serveStatic = require('serve-static')
 
 
 require('./database');
