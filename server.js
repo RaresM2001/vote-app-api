@@ -2,7 +2,8 @@ const express = require('express');
 const bodyParser = require('express');
 const cors = require('cors');
 const cookieParser = require('cookie-parser');
-const serveStatic = require('serve-static')
+const serveStatic = require('serve-static');
+const history = require('connect-history-api-fallback');
 
 
 require('./database');
@@ -16,6 +17,7 @@ const mailgunRouter = require('./routers/mailgun');
 const PORT = process.env.PORT || 8081;
 var app = express();
 app.use(cors());
+app.use(history());
 
 app.use(bodyParser.json());
 app.use(cookieParser());
