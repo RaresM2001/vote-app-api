@@ -14,7 +14,7 @@ const mailgunRouter = require('./routers/mailgun');
 
 const PORT = process.env.PORT || 8081;
 var app = express();
-app.use(cors());
+// app.use(cors());
 app.use(bodyParser.json());
 app.use(cookieParser());
 
