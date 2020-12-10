@@ -2,7 +2,7 @@ const express = require('express');
 const bodyParser = require('express');
 const cors = require('cors');
 const cookieParser = require('cookie-parser');
-const serveStatic = require('serve-static');
+
 
 require('./database');
 require('dotenv').config();
@@ -14,7 +14,10 @@ const mailgunRouter = require('./routers/mailgun');
 
 const PORT = process.env.PORT || 8081;
 var app = express();
-// app.use(cors());
+app.use(cors({
+    origin: 'https://vote-application-mrvit.herokuapp.com',
+    credentials: true
+}));
 app.use(bodyParser.json());
 app.use(cookieParser());
 
