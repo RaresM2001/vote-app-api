@@ -2,6 +2,7 @@ const express = require('express');
 const bodyParser = require('express');
 const cors = require('cors');
 const cookieParser = require('cookie-parser');
+const serveStatic = require('serve-static');
 
 require('./database');
 require('dotenv').config();
@@ -25,9 +26,7 @@ app.use('/members', memberRouter);
 app.use('/polls', pollRouter)
 app.use('/mailgun', mailgunRouter);
 
-app.get('/', (request, response) => {
-    response.send('rares are mere')
-})
+app.use(serveStatic(__dirname + '/client/dist'));
 
 app.listen(PORT, () => {
     console.log(`Server started on port ${PORT}`);

@@ -5,7 +5,7 @@ const mailgun = require('../utils/mailgun');
 
 const createAdmin = async (request, response) => {
     let data = request.body;
-    console.log(data);
+
     try {
         let admin = await service.createAdmin(data);
         if (admin) {
