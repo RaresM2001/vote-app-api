@@ -15,9 +15,11 @@ const mailgunRouter = require('./routers/mailgun');
 const PORT = process.env.PORT || 8081;
 var app = express();
 app.use(cors({
-    origin: 'https://vote-application-mrvit.herokuapp.com',
-    credentials: true
+    allowedHeaders: ['Content-Type'],
+    origin: '*',
+    preflightContinue: true
 }));
+
 app.use(bodyParser.json());
 app.use(cookieParser());
 
