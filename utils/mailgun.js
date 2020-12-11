@@ -1,5 +1,6 @@
 const apiKey = process.env.MAILGUN_KEY;
 const domain = process.env.MAILGUN_DOMAIN;
+const constants = require('../utils/constants');
 
 const mailgun = require('mailgun-js')({
     apiKey,
