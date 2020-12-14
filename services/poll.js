@@ -1,5 +1,4 @@
 const Poll = require('../models/poll');
-const memberService = require('./member');
 
 const addPoll = async (data) => {
     let poll = new Poll({...data});
@@ -22,24 +21,24 @@ const getPollCount = async (id) => {
     return count;
 }
 
-const voteYesOrNo = async (vote, memberId, pollId) => {
+const voteYesOrNo = async (vote, pollId) => {
     let poll = await getPollById(pollId);
-    let member = await memberService.getMemberById(memberId);
+    // let member = await memberService.getMemberById(memberId);
     
-    if(!member || !poll) return false;
+    if(!poll) return false;
 
-    poll.yesOrNoAnswers.push({memberId: member._id, vote});
+    poll.yesOrNoAnswers.push({vote});
     await poll.save();
     return poll;
 }
 
-const voteOption = async (index, memberId, pollId) => {
+const voteOption = async (index, pollId) => {
     let poll = await getPollById(pollId);
-    let member = await memberService.getMemberById(memberId);
+    // let member = await memberService.getMemberById(memberId);
 
-    if(!member || !poll) return false;
+    if(!poll) return false;
 
-    poll.optionAnswers.push({memberId: memberId, voteOption: index});
+    poll.optionAnswers.push({voteOption: index});
     await poll.save();
     return poll;
 }

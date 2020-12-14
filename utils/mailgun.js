@@ -8,16 +8,19 @@ const mailgun = require('mailgun-js')({
     domain
 });
 
-const sendMail = async (pollId, to) => {
+const sendMail = async (message, to) => {
+    console.log('in utils', message)
     let data = {
         from: "Vote App <modure_rares@mrv-it.com>",
         to: to,
         subject: "Participare Vot",
-        html: constants.htmlMailTemplate(pollId)
+        html: constants.htmlMailTemplate(message)
     }
     await mailgun.messages().send(data, (error, body) => {
-        if (!error) return true;
-        else return false;
+        console.log(body); 
+       if(error) {
+           console.log("Error", error)
+       }
     })
 }
 

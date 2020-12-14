@@ -1,5 +1,6 @@
 const DAY = 1000 * 60 * 60 * 24; // 24 hours
 const htmlMailTemplate =  function(message) {
+    console.log('in constants', message);
     return `<!DOCTYPE html>
     <html  style="font-family: 'Ubuntu', Helvetica, Arial, sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
     <head>
@@ -70,7 +71,7 @@ const htmlMailTemplate =  function(message) {
     <td class="container" width="600" style="font-family: 'Ubuntu',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; display: block !important; max-width: 600px !important; clear: both !important; margin: 0 auto;" valign="top">
       <div class="content" style=" box-sizing: border-box; font-size: 14px; max-width: 600px; display: block; margin: 0 auto; padding: 20px;">
         <table class="main" width="100%" cellpadding="0" cellspacing="0" style="font-family: 'Ubuntu',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; border-radius: 3px; background-color: #fff; margin: 0; border: 1px solid #e9e9e9;" bgcolor="#fff"><tr style="font-family: 'Ubuntu',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;"><td class="alert alert-warning" style="font-family: 'Ubuntu',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 16px; vertical-align: top; color: #fff; font-weight: 500; text-align: center; border-radius: 3px 3px 0 0; background-color: #827ffe; margin: 0; padding: 20px;" align="center" bgcolor="#FF9F00" valign="top">
-             Accesati linkul de vot.
+            Sindicatul National Solidaritatea
             </td>
           </tr><tr style="font-family: 'Ubuntu',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;"><td class="content-wrap" style="font-family: 'Ubuntu',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 20px;" valign="top">
               <table width="100%" cellpadding="0" cellspacing="0" style="font-family: 'Ubuntu',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;"><tr style="font-family: 'Ubuntu',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;"><td class="content-block" style="font-family: 'Ubuntu',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0 0 20px;" valign="top">
@@ -80,10 +81,10 @@ const htmlMailTemplate =  function(message) {
                    ${message}
                   </td>
                 </tr><tr style="font-family: 'Ubuntu',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;"><td class="content-block" style="font-family: 'Ubuntu',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0 0 20px;" valign="top">
-                    <br><br><br><p style="color: grey"><i>ATENTIE! Nu impartasiti cu nimeni linkul de vot si nu accesati link-uri din alte surse decat acest mesaj.</i></p>
+                    
                       </td>
                 </tr><tr style="font-family: 'Ubuntu',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;"><td class="content-block" style="font-family: 'Ubuntu',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0 0 20px;" valign="top">
-                    <span style="color: #8f8ea1">&mdash; VoteApp by <i>MRVIT SRL</i></span>
+                    <span style="color: #8f8ea1">&mdash; built and delivered by <i>MRVIT SRL</i></span>
                   </td>
                 </tr></table></td>
           </tr></table><div class="footer" style="font-family: 'Ubuntu',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; clear: both; color: #999; margin: 0; padding: 20px;">
