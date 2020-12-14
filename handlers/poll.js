@@ -1,5 +1,5 @@
-const member = require('../services/member');
 const service = require('../services/poll');
+const mailgun = require('../utils/mailgun');
 
 const addPoll = async (request, response) => {
     let data = request.body;
@@ -22,6 +22,12 @@ const getPolls = async (request, response) => {
     else response.status(200).send({success: false});
 }
 
+const getAllPolls = async (request, response) => {
+    let polls = await service.getAllPolls();
+    if(polls) response.status(200).send({success: true, polls});
+    else response.status(200).send({success: false});
+}
+
 const getPollCount = async (request, response) => {
     let id = request.params.id;
     let count = await service.getPollCount(id);
@@ -33,18 +39,32 @@ const vote = async (request, response) => {
     let type = request.params.type;
     let pollId = request.params.pollId;
     let data = request.body;
-    let memberId = data.memberId;
+    // let memberId = data.memberId;
     let vote = data.vote;
 
     if(type === 'yesorno') {
-        let result = await service.voteYesOrNo(vote, memberId, pollId);
+        let result = await service.voteYesOrNo(vote,  pollId);
         if(result != false || result != undefined) response.status(200).send({success: true});
         else response.status(200).send({success: false});
     } else if(type === 'multiple') {
-        let result = await service.voteOption(vote, memberId, pollId);
+        let result = await service.voteOption(vote, pollId);
         if(result != false) response.status(200).send({success: true});
         else response.status(200).send({success: false});
     }
+}
+
+const sendMessage = async (request, response) => {
+    let message = request.body.message;
+    let mailingList = request.body.mailingList;
+    let res = await mailgun.sendMail(message, mailingList);
+    console.log(result);
+}
+
+const updatePoll = async (request, response) => {
+    let id = request.params.id;
+    let result = await service.updatePoll(id);
+    if(result) response.status(200).send({success: true})
+    else response.status(200).send({success: false})
 }
 
 module.exports = {
@@ -52,5 +72,8 @@ module.exports = {
     vote,
     getPoll,
     getPolls,
-    getPollCount
+    getPollCount,
+    sendMessage,
+    getAllPolls,
+    updatePoll
 }
