@@ -20,8 +20,12 @@ const createAdmin = async (request, response) => {
 const login = async (request, response) => {
     let credentials = request.body;
 
+    console.log('handler');
+
     let admin = await service.findAdminByEmail(credentials.email);
     if (!admin) return response.send({ success: false, incorrectUsername: true });
+
+    console.log(admin);
 
     try {
         let match = await admin.matchPassword(credentials.password);

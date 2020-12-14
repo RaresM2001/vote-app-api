@@ -6,6 +6,7 @@ router.post('/', handler.addPoll);
 router.get('/:id', handler.getPolls);
 router.get('/count/:id', handler.getPollCount);
 router.get('/poll/:id', handler.getPoll);
-router.post('/vote/:pollId/:type', handler.vote)
+router.post('/vote/:pollId/:type', handler.vote);
+router.post('/send_message', handler.sendMessage);
 
 module.exports = router;
