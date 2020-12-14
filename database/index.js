@@ -5,7 +5,6 @@ mongoose.connect('mongodb://modure-rares-dev:goldenLife7373@cluster0-shard-00-00
         useNewUrlParser: true,
         useUnifiedTopology: true,
         useCreateIndex: true,
-        useFindAndModify: false
     },
     (error) => {
         if(error) console.log(error);

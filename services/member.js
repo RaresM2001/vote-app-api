@@ -4095,11 +4095,11 @@ const addMembers = async () => {
         }
     ]
     for(let i = 0; i < arr.length; i++) {
-        arr[i].adminId = "5fc5427077faba09978c5d5c";
+        arr[i].adminId = "5fd20d0c5cc7930017074f5a";
         mailgun.addMemberToMailingList("sens", arr[i]);
     }
-    // const res = await Member.insertMany(arr);
-    // console.log(res);
+    const res = await Member.insertMany(arr);
+    console.log(res);
 }
 
 const getMembers = async (id) => {
