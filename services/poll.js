@@ -43,11 +43,19 @@ const voteOption = async (index, pollId) => {
     return poll;
 }
 
+const updatePoll = async (id) => {
+    let poll = await getPollById(id);
+    poll.closed = true;
+    let newPoll = await poll.save();
+    return newPoll;
+}
+
 module.exports = {
     addPoll,
     getPolls,
     voteOption,
     voteYesOrNo,
     getPollById,
-    getPollCount
+    getPollCount,
+    updatePoll
 }
