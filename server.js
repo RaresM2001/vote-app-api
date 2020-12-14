@@ -2,6 +2,9 @@ const express = require('express');
 const bodyParser = require('express');
 const cors = require('cors');
 const cookieParser = require('cookie-parser');
+const serveStatic = require('serve-static');
+const history = require('connect-history-api-fallback');
+
 
 require('./database');
 require('dotenv').config();
@@ -17,6 +20,8 @@ app.use(cors({
     origin: 'http://localhost:8080',
     credentials: true
 }));
+app.use(history());
+
 app.use(bodyParser.json());
 app.use(cookieParser());
 
@@ -24,6 +29,8 @@ app.use('/auth', authRouter);
 app.use('/members', memberRouter);
 app.use('/polls', pollRouter)
 app.use('/mailgun', mailgunRouter);
+
+app.use(serveStatic(__dirname + '/client/dist'));
 
 app.listen(PORT, () => {
     console.log(`Server started on port ${PORT}`);
