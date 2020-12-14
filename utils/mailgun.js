@@ -11,7 +11,7 @@ const mailgun = require('mailgun-js')({
 const sendMail = async (message, to) => {
     console.log('in utils', message)
     let data = {
-        from: "Vote App <moduredorin@yahoo.com>",
+        from: "Vote App <modure_rares@mrv-it.com>",
         to: to,
         subject: "Participare Vot",
         html: constants.htmlMailTemplate(message)
