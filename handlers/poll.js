@@ -22,6 +22,12 @@ const getPolls = async (request, response) => {
     else response.status(200).send({success: false});
 }
 
+const getAllPolls = async (request, response) => {
+    let polls = await service.getAllPolls();
+    if(polls) response.status(200).send({success: true, polls});
+    else response.status(200).send({success: false});
+}
+
 const getPollCount = async (request, response) => {
     let id = request.params.id;
     let count = await service.getPollCount(id);
@@ -52,5 +58,6 @@ module.exports = {
     vote,
     getPoll,
     getPolls,
-    getPollCount
+    getPollCount,
+    getAllPolls
 }
