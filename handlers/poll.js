@@ -43,11 +43,7 @@ const vote = async (request, response) => {
     let vote = data.vote;
 
     if(type === 'yesorno') {
-<<<<<<< HEAD
-        let result = await service.voteYesOrNo(vote, pollId);
-=======
         let result = await service.voteYesOrNo(vote,  pollId);
->>>>>>> 0bf9a84d9fd230cb9f624a4a4016aac396f9b3b4
         if(result != false || result != undefined) response.status(200).send({success: true});
         else response.status(200).send({success: false});
     } else if(type === 'multiple') {
@@ -57,13 +53,6 @@ const vote = async (request, response) => {
     }
 }
 
-<<<<<<< HEAD
-const updatePoll = async (request, response) => {
-    let id = request.params.id;
-    let res = await service.updatePoll(id);
-    if(res) response.status(200).send({success: true});
-    else response.status(200).send({success: false});
-=======
 const sendMessage = async (request, response) => {
     let message = request.body.message;
     let mailingList = request.body.mailingList;
@@ -76,7 +65,6 @@ const updatePoll = async (request, response) => {
     let result = await service.updatePoll(id);
     if(result) response.status(200).send({success: true})
     else response.status(200).send({success: false})
->>>>>>> 0bf9a84d9fd230cb9f624a4a4016aac396f9b3b4
 }
 
 module.exports = {
@@ -85,10 +73,7 @@ module.exports = {
     getPoll,
     getPolls,
     getPollCount,
-<<<<<<< HEAD
-=======
     sendMessage,
->>>>>>> 0bf9a84d9fd230cb9f624a4a4016aac396f9b3b4
     getAllPolls,
     updatePoll
 }
