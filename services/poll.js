@@ -16,7 +16,7 @@ const getPolls = async (id) => {
     return polls;
 }
 
-const getAllPolls = async (id) => {
+const getAllPolls = async () => {
     let polls = await Poll.find({});
     return polls;
 }
@@ -28,15 +28,19 @@ const getPollCount = async (id) => {
 
 const voteYesOrNo = async (vote, pollId) => {
     let poll = await getPollById(pollId);
+    // let member = await memberService.getMemberById(memberId);
+    
     if(!poll) return false;
 
-    poll.yesOrNoAnswers.push({memberId: member._id, vote});
+    poll.yesOrNoAnswers.push({vote});
     await poll.save();
     return poll;
 }
 
 const voteOption = async (index, pollId) => {
     let poll = await getPollById(pollId);
+    // let member = await memberService.getMemberById(memberId);
+
     if(!poll) return false;
 
     poll.optionAnswers.push({voteOption: index});
@@ -44,12 +48,17 @@ const voteOption = async (index, pollId) => {
     return poll;
 }
 
-const updatePoll = async (id) => {
-    let poll = await getPollById(id);
+const updatePoll = async (pollId) => {
+    let poll = await getPollById(pollId);
+    // let member = await memberService.getMemberById(memberId);
+    if(!poll) return false;
     poll.closed = true;
     let newPoll = await poll.save();
-    return newPoll;
+    return newPoll
 }
+
+
+
 
 module.exports = {
     addPoll,

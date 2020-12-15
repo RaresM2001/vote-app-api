@@ -15,8 +15,9 @@ const addMemberToList = async (request, response) => {
 
 const sendMail = async (request, response) => {
     let to = "members_" + request.body.tradeUnion.toLowerCase() + "@mrv-it.com";
-    let pollId = request.body.pollId;
-    let result = await service.sendMail(pollId, to);
+    let message = request.body.message;
+    console.log("In handler ", message)
+    let result = await service.sendMail(message, to);
     if(result) response.status(200).send({success: true})
 }
 
