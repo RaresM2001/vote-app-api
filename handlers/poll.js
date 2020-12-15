@@ -43,14 +43,21 @@ const vote = async (request, response) => {
     let vote = data.vote;
 
     if(type === 'yesorno') {
-        let result = await service.voteYesOrNo(vote, memberId, pollId);
+        let result = await service.voteYesOrNo(vote, pollId);
         if(result != false || result != undefined) response.status(200).send({success: true});
         else response.status(200).send({success: false});
     } else if(type === 'multiple') {
-        let result = await service.voteOption(vote, memberId, pollId);
+        let result = await service.voteOption(vote, pollId);
         if(result != false) response.status(200).send({success: true});
         else response.status(200).send({success: false});
     }
+}
+
+const updatePoll = async (request, response) => {
+    let id = request.params.id;
+    let res = await service.updatePoll(id);
+    if(res) response.status(200).send({success: true});
+    else response.status(200).send({success: false});
 }
 
 module.exports = {
@@ -59,5 +66,6 @@ module.exports = {
     getPoll,
     getPolls,
     getPollCount,
-    getAllPolls
+    getAllPolls,
+    updatePoll
 }

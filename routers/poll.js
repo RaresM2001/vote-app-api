@@ -4,6 +4,7 @@ const handler = require('../handlers/poll');
 
 router.post('/', handler.addPoll);
 router.get('/:id', handler.getPolls);
+router.post('/update/:id', handler.updatePoll);
 router.get('/', handler.getAllPolls);
 router.get('/count/:id', handler.getPollCount);
 router.get('/poll/:id', handler.getPoll);
