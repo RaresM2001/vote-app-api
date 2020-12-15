@@ -3,13 +3,13 @@ const router  = express.Router();
 const handler = require('../handlers/poll');
 const middleware = require('../middleware/auth');
 
-router.post('/', middleware.checkCookie, handler.addPoll);
-router.get('/:id', middleware.checkCookie,  handler.getPolls);
+router.post('/', handler.addPoll);
+router.get('/:id', handler.getPolls);
 router.get('/', handler.getAllPolls);
-router.get('/count/:id', middleware.checkCookie, handler.getPollCount);
-router.get('/poll/:id', middleware.checkCookie, handler.getPoll);
+router.get('/count/:id', handler.getPollCount);
+router.get('/poll/:id', handler.getPoll);
 router.post('/vote/:pollId/:type', handler.vote);
-router.post('/send_message', middleware.checkCookie, handler.sendMessage);
-router.post('/update/:id', middleware.checkCookie, handler.updatePoll);
+router.post('/send_message', handler.sendMessage);
+router.post('/update/:id', handler.updatePoll);
 
 module.exports = router;
