@@ -5,7 +5,6 @@ const middleware = require('../middleware/auth');
 
 router.post('/', handler.addPoll);
 router.get('/:id', handler.getPolls);
-router.post('/update/:id', handler.updatePoll);
 router.get('/', handler.getAllPolls);
 router.get('/count/:id', middleware.checkCookie, handler.getPollCount);
 router.get('/poll/:id', middleware.checkCookie, handler.getPoll);
