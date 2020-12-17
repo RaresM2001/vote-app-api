@@ -39,15 +39,15 @@ const vote = async (request, response) => {
     let type = request.params.type;
     let pollId = request.params.pollId;
     let data = request.body;
-    // let memberId = data.memberId;
     let vote = data.vote;
+    let email = request.body.email;
 
     if(type === 'yesorno') {
-        let result = await service.voteYesOrNo(vote,  pollId);
+        let result = await service.voteYesOrNo(vote, email, pollId);
         if(result != false || result != undefined) response.status(200).send({success: true});
         else response.status(200).send({success: false});
     } else if(type === 'multiple') {
-        let result = await service.voteOption(vote, pollId);
+        let result = await service.voteOption(vote, email, pollId);
         if(result != false) response.status(200).send({success: true});
         else response.status(200).send({success: false});
     }
