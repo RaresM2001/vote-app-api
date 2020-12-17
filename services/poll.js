@@ -26,20 +26,20 @@ const getPollCount = async (id) => {
     return count;
 }
 
-const voteYesOrNo = async (vote, pollId) => {
+const voteYesOrNo = async (vote, email, pollId) => {
     let poll = await getPollById(pollId);
     if(!poll) return false;
 
-    poll.yesOrNoAnswers.push({vote});
+    poll.yesOrNoAnswers.push({vote, email});
     await poll.save();
     return poll;
 }
 
-const voteOption = async (index, pollId) => {
+const voteOption = async (index, email, pollId) => {
     let poll = await getPollById(pollId);
     if(!poll) return false;
 
-    poll.optionAnswers.push({voteOption: index});
+    poll.optionAnswers.push({voteOption: index, email});
     await poll.save();
     return poll;
 }
