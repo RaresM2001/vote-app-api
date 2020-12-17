@@ -1,8 +1,10 @@
 const Member = require('../models/member');
 const mailgun = require('../utils/mailgun');
+const codeGenerator = require('../utils/accessCode');
 
 const addMember = async (data) => {
     let member = new Member({ ...data });
+    member.generateCode();
     await member.save();
     return member;
 }
@@ -4097,6 +4099,8 @@ const addMembers = async () => {
     for(let i = 0; i < arr.length; i++) {
         arr[i].adminId = "5fd20d0c5cc7930017074f5a";
         mailgun.addMemberToMailingList("sens", arr[i]);
+        let code = codeGenerator.generateCode(5);
+        arr[i].code = code;
     }
     const res = await Member.insertMany(arr);
     console.log(res);
@@ -4127,6 +4131,12 @@ const deleteMember = async (id) => {
     return deletedStatus;
 }
 
+const findMemberByAccessCode = async (code) => {
+    let member = await Member.findOne({code});
+    console.log("Rares are mere")
+    return member;
+}
+
 module.exports = {
     addMember,
     deleteMember,
@@ -4134,5 +4144,6 @@ module.exports = {
     getMemberById,
     getMemberByEmail,
     getMemberCount,
-    addMembers
+    addMembers,
+    findMemberByAccessCode
 }
