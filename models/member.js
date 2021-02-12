@@ -1,21 +1,18 @@
 const mongoose = require('mongoose');
+const codeGenerator = require('../utils/accessCode.js');
 
 const memberSchema = new mongoose.Schema({
     firstName: {
         type: String,
-        // required: true
     },
     lastName: {
         type: String, 
-        // required: true
     },
     email: {
         type: String,
-        // required: true,
     },
     CNP: {
         type: String,
-        // required: true,
     },
     joinedIn: {
         type: String
@@ -29,8 +26,17 @@ const memberSchema = new mongoose.Schema({
     },
     DGRFP: {
         type: String
+    },
+    code: {
+        type: String,
+        required: true
     }
-})
+});
+
+memberSchema.methods.generateCode = function() {
+    let code = codeGenerator.generateCode(5);
+    this.code = code;
+}
 
 const Member = mongoose.model('Member', memberSchema);
 module.exports = Member;

@@ -7,9 +7,9 @@ const addMembers = async (request, response) => {
 const addMember = async (request, response) => {
     let memberInfo = request.body;
     let adminId = request.body.adminId;
-    
+
     let alreadyExists = await service.getMemberByEmail(memberInfo.email, adminId);
-    if(alreadyExists) return response.status(200).send({success: false, duplicate: true});
+    if (alreadyExists) return response.status(200).send({ success: false, duplicate: true });
 
     let member = await service.addMember(memberInfo);
     if (member) response.status(200).send({ success: true, member })
@@ -19,8 +19,8 @@ const addMember = async (request, response) => {
 const getMemberByEmail = async (request, response) => {
     let email = request.params.email;
     let member = await service.getMemberByEmail(email);
-    if(!member) response.status(200).send({success: false})
-    else response.status(200).send({success: true, member});
+    if (!member) response.status(200).send({ success: false })
+    else response.status(200).send({ success: true, member });
 }
 
 const getMemberById = async (request, response) => {
@@ -40,8 +40,8 @@ const getMembers = async (request, response) => {
 const getMemberCount = async (request, response) => {
     let id = request.params.id;
     let count = await service.getMemberCount(id);
-    if(count != undefined) response.status(200).send({success: true, count});
-    else response.status(200).send({success: false});
+    if (count != undefined) response.status(200).send({ success: true, count });
+    else response.status(200).send({ success: false });
 }
 
 const deleteMember = async (request, response) => {
@@ -51,6 +51,14 @@ const deleteMember = async (request, response) => {
     else response.status(200).send({ success: false })
 }
 
+const findMemberByAccessCode = async (request, response) => {
+    let code = request.params.code;
+    let member = await service.findMemberByAccessCode(code);
+    console.log("Member is ", member);
+    if (member) response.status(200).send({ success: true, member});
+    else response.status(200).send({ success: false });
+}
+
 module.exports = {
     addMember,
     addMembers,
@@ -58,5 +66,6 @@ module.exports = {
     getMembers,
     getMemberById,
     getMemberByEmail,
-    getMemberCount
+    getMemberCount,
+    findMemberByAccessCode
 }
