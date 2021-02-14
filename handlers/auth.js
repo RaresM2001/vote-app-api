@@ -45,6 +45,10 @@ const login = async (request, response) => {
     }
 }
 
+const logout = async (request, response) => {
+    response.clearCookie("access_token").status(200).send();
+}
+
 const verifyToken = async (request, response) => {
     if (request.cookies.access_token == undefined)
         return response.status(401).send({ success: false })
@@ -59,5 +63,6 @@ const verifyToken = async (request, response) => {
 module.exports = {
     createAdmin,
     login,
-    verifyToken
+    verifyToken,
+    logout
 }

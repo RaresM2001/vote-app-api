@@ -5,7 +5,6 @@ const cookieParser = require('cookie-parser');
 const serveStatic = require('serve-static');
 const history = require('connect-history-api-fallback');
 
-
 require('./database');
 require('dotenv').config();
 
