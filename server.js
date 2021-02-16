@@ -16,10 +16,13 @@ const mailgunRouter = require('./routers/mailgun');
 const PORT = process.env.PORT || 8081;
 var app = express();
 app.use(cors({
-    origin: 'http://aplicatievot.com',
+    origin: 'http://www.aplicatievot.com',
     credentials: true
 }));
-app.use(cors());
+app.use(function(response, request) {
+    response.header('Access-Control-Allow-Origin', "http://www.aplicatievot.com");
+})
+
 app.use(history());
 
 app.use(bodyParser.json());
