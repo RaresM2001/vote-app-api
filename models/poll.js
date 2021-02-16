@@ -20,7 +20,6 @@ const pollSchema = new mongoose.Schema({
     yesOrNoAnswers: {
         type: Array
     },
-    // only if the poll is a multiple answer poll
     options: {
         type: Array
     },

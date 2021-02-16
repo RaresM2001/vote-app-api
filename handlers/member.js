@@ -54,7 +54,6 @@ const deleteMember = async (request, response) => {
 const findMemberByAccessCode = async (request, response) => {
     let code = request.params.code;
     let member = await service.findMemberByAccessCode(code);
-    console.log("Member is ", member);
     if (member) response.status(200).send({ success: true, member});
     else response.status(200).send({ success: false });
 }

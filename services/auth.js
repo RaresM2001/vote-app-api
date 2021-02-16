@@ -10,6 +10,11 @@ const createAdmin = async (data) => {
     }
 }
 
+const getAdmins = async () => {
+    let admins = await Admin.find({});
+    return admins;
+}
+
 const findAdminByEmail = async (email) => {
     let admin = await Admin.findOne({email});
     return admin;
@@ -17,5 +22,6 @@ const findAdminByEmail = async (email) => {
 
 module.exports = {
     createAdmin,
-    findAdminByEmail
+    findAdminByEmail,
+    getAdmins
 }

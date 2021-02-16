@@ -2,6 +2,8 @@ const Member = require('../models/member');
 const mailgun = require('../utils/mailgun');
 const codeGenerator = require('../utils/accessCode');
 
+const ADMIN_ID = "5fd20d0c5cc7930017074f5a";
+
 const addMember = async (data) => {
     let member = new Member({ ...data });
     member.generateCode();
@@ -12,7 +14,7 @@ const addMember = async (data) => {
 const addMembers = async () => {
     const arr = [
         {
-                        firstName: "Agud-Popa Mihaiela",
+            firstName: "Agud-Popa Mihaiela",
             CNP: "2770307052153",
             address: "Oradea, str. I. Cantacuzino, nr. 8E, ap. 2, jud. Bihor",
             FunctieCasaGradatia: "inspector superior I/4",
@@ -4097,13 +4099,13 @@ const addMembers = async () => {
         }
     ]
     for(let i = 0; i < arr.length; i++) {
-        arr[i].adminId = "5fd20d0c5cc7930017074f5a";
-        mailgun.addMemberToMailingList("sens", arr[i]);
         let code = codeGenerator.generateCode(5);
+        arr[i].adminId = ADMIN_ID;
         arr[i].code = code;
+        mailgun.addMemberToMailingList("sens", {...arr[i], code});
     }
     const res = await Member.insertMany(arr);
-    console.log(res);
+    // console.log(res);
 }
 
 const getMembers = async (id) => {
@@ -4133,7 +4135,6 @@ const deleteMember = async (id) => {
 
 const findMemberByAccessCode = async (code) => {
     let member = await Member.findOne({code});
-    console.log("Rares are mere")
     return member;
 }
 
