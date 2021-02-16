@@ -19,9 +19,9 @@ app.use(cors({
     origin: 'http://www.aplicatievot.com',
     credentials: true
 }));
-app.use(function(request, response) {
-    response.header('Access-Control-Allow-Origin', '*');
-})
+// app.use(function(request, response) {
+//     response.header('Access-Control-Allow-Origin', '*');
+// })
 
 app.use(history());
 
