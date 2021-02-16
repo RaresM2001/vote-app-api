@@ -57,7 +57,7 @@ const sendMessage = async (request, response) => {
     let message = request.body.message;
     let mailingList = request.body.mailingList;
     let res = await mailgun.sendMail(message, mailingList);
-    console.log(result);
+    console.log(res);
 }
 
 const updatePoll = async (request, response) => {

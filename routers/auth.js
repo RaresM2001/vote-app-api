@@ -1,10 +1,11 @@
 const express = require('express');
 const router = express.Router();
-const authHandler = require('../handlers/auth.js');
+const handler = require('../handlers/auth.js');
 
-router.post('/admins', authHandler.createAdmin);
-router.post('/login', authHandler.login);
-router.post('/verify_token', authHandler.verifyToken);
-router.post('/logout', authHandler.logout);
+router.post('/admins', handler.createAdmin);
+router.post('/login', handler.login);
+router.post('/verify_token', handler.verifyToken);
+router.post('/logout', handler.logout);
+router.get('/admins', handler.getAdmins);
 
 module.exports = router;

@@ -18,6 +18,12 @@ const createAdmin = async (request, response) => {
     }
 }
 
+const getAdmins = async (request, response) => {
+    let admins = await service.getAdmins();
+    if(admins) response.status(200).send({success: true, admins});
+    else response.status(200).send({success: false});
+}
+
 const login = async (request, response) => {
     let credentials = request.body;
     let admin = await service.findAdminByEmail(credentials.email);
@@ -64,5 +70,6 @@ module.exports = {
     createAdmin,
     login,
     verifyToken,
+    getAdmins,
     logout
 }

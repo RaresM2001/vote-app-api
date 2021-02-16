@@ -8,51 +8,71 @@ const mailgun = require('mailgun-js')({
     domain
 });
 
-const sendMail = async (message, to) => {
-    console.log('in utils', message)
+const sendMail = async (message, to, tradeUnion) => {
     let data = {
-        from: "Vote App <modure_rares@mrv-it.com>",
+        from: `${tradeUnion} <no-reply@mrv-it.com>`,
         to: to,
-        subject: "Participare Vot",
-        html: constants.htmlMailTemplate(message)
+        subject: "Mesaj",
+        html: constants.htmlMailTemplate(message, tradeUnion)
     }
     await mailgun.messages().send(data, (error, body) => {
-        console.log(body); 
-       if(error) {
-           console.log("Error", error)
-       }
+        if (error) {
+            console.log("Error", error)
+        }
+        console.log(body);
+        return true;
     })
 }
 
+const sendCode = async (to, tradeUnion) => {
+    let data = {
+        from: `${tradeUnion} <no-reply@mrv-it.com>`,
+        to: to,
+        subject: "Cod Acces Vot",
+        html: constants.htmlAccessCodeTemplate(tradeUnion)
+    }
+
+    mailgun.messages().send(data, (error, body) => {
+        if (error) {
+            console.log("Error", error)
+        }
+
+        if (body) {
+            console.log('message was sent', body);
+        }
+    });
+
+}
+
 const createMailingList = async (name) => {
-    let result = await mailgun.post('/lists', { 
-        address: `members_${name}@${domain}`, 
-        description: 'Members for vote application.' 
+    let result = await mailgun.post('/lists', {
+        address: `members_${name}@${domain}`,
+        description: 'Members for vote application.'
     }, function (error, body) {
-        if(error) return false;
+        if (error) return false;
+        return true;
     });
     return result;
 }
 
 const addMemberToMailingList = async (name, memberData) => {
     let list = mailgun.lists(`members_${name}@${domain}`);
-
     let member = {
         name: memberData.firstName + " " + memberData.lastName,
         subscribed: true,
         address: memberData.email,
-        vars: {id: memberData._id}
+        vars: {code: memberData.code }
     }
 
-    list.members().create(member, function(error, data) {
-        if(error) return false;
+    list.members().create(member, function (error, data) {
+        if (error) return false;
     });
     return true;
 }
 
-
 module.exports = {
     sendMail,
+    sendCode,
     createMailingList,
     addMemberToMailingList
 }
