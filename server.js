@@ -22,7 +22,7 @@ app.use(cors({
 }));
 // app.use(function(request, response) {
 //     response.header('Access-Control-Allow-Origin', '*');
-// })
+// });
 
 app.use(history());
 
@@ -38,4 +38,4 @@ app.use(serveStatic(__dirname + '/client/dist'));
 
 app.listen(PORT, () => {
     console.log(`Server started on port ${PORT}`);
-})
+});
