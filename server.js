@@ -16,7 +16,7 @@ const mailgunRouter = require('./routers/mailgun');
 const PORT = process.env.PORT || 8081;
 var app = express();
 app.use(cors({
-    origin: 'http://www.aplicatievot.com',
+    origin: process.env.NODE_ENV ==='production' ? 'http://www.aplicatievot.com' : 'http://localhost:8081',
     credentials: true
 }));
 
@@ -24,6 +24,8 @@ app.use(history());
 
 app.use(bodyParser.json());
 app.use(cookieParser());
+
+app.set('trust proxy', 1);
 
 app.use('/auth', authRouter);
 app.use('/members', memberRouter);

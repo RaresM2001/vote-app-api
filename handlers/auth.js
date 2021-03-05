@@ -42,7 +42,7 @@ const login = async (request, response) => {
             response.cookie('access_token', token, {
                 maxAge: constants.DAY,
                 httpOnly: false,
-                // secure: true
+                secure: false
             });
             
             response.status(200).send({ success: true, adminInfo: { id: admin._id, firstName: admin.firstName, lastName: admin.lastName, tradeUnion: admin.tradeUnion } })
