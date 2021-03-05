@@ -41,8 +41,8 @@ const login = async (request, response) => {
 
             response.cookie('access_token', token, {
                 maxAge: constants.DAY,
-                domain: '.aplicatievot.com',
-                secure: false
+                domain: 'www.aplicatievot.com',
+                secure: true
             });
             
             response.status(200).send({ success: true, adminInfo: { id: admin._id, firstName: admin.firstName, lastName: admin.lastName, tradeUnion: admin.tradeUnion } })
