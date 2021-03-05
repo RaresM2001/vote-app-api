@@ -17,7 +17,7 @@ const PORT = process.env.PORT || 8081;
 var app = express();
 app.use(cors({
     origin: process.env.NODE_ENV ==='production' ? 'http://www.aplicatievot.com' : 'http://localhost:8081',
-    credentials: true
+    credentials: 'include'
 }));
 
 app.use(history());
